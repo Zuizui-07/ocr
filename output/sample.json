@@ -1,0 +1,2917 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.9.0",
+  "name": "sample",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 5205572168822213386,
+    "filename": "sample.png"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        },
+        {
+          "$ref": "#/texts/38"
+        },
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/texts/44"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.666666666666668,
+            "t": 649.6666666666666,
+            "r": 243.0,
+            "b": 629.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "Thankyou!ID #:7PB65JwCFZ2",
+      "text": "Thankyou!ID #:7PB65JwCFZ2"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 112.0,
+            "t": 623.0,
+            "r": 222.33333333333334,
+            "b": 600.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Walmart",
+      "text": "Walmart",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 84.0,
+            "t": 593.6666666666666,
+            "r": 272.6666666666667,
+            "b": 579.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "949-498-6669Mgr:MICHAEL",
+      "text": "949-498-6669Mgr:MICHAEL"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 115.0,
+            "t": 578.0,
+            "r": 242.33333333333334,
+            "b": 564.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "951 AVENIDA PICO",
+      "text": "951 AVENIDA PICO"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 91.66666666666667,
+            "t": 562.6666666666666,
+            "r": 258.0,
+            "b": 548.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "SAN CLEMENTECA 92673",
+      "text": "SAN CLEMENTECA 92673"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.666666666666668,
+            "t": 550.0,
+            "r": 322.0,
+            "b": 531.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "ST#025270P#009045 TE#45 TR#06193",
+      "text": "ST#025270P#009045 TE#45 TR#06193"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 27.333333333333332,
+            "t": 533.3333333333334,
+            "r": 108.33333333333333,
+            "b": 518.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "GVOATMEAL",
+      "text": "GVOATMEAL"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 132.0,
+            "t": 531.0,
+            "r": 241.33333333333334,
+            "b": 517.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "007874243408F",
+      "text": "007874243408F"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 280.3333333333333,
+            "t": 531.3333333333334,
+            "r": 330.6666666666667,
+            "b": 518.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "1.760",
+      "text": "1.760"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 27.333333333333332,
+            "t": 518.0,
+            "r": 117.0,
+            "b": 502.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "OT200ZTUM",
+      "text": "OT200ZTUM"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 132.0,
+            "t": 515.6666666666666,
+            "r": 226.66666666666666,
+            "b": 502.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "081236803115",
+      "text": "081236803115"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 279.6666666666667,
+            "t": 516.0,
+            "r": 330.6666666666667,
+            "b": 503.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "6.74X",
+      "text": "6.74X"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 27.0,
+            "t": 502.33333333333337,
+            "r": 116.0,
+            "b": 487.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "M ATHLETICS",
+      "text": "M ATHLETICS"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 132.33333333333334,
+            "t": 499.66666666666663,
+            "r": 225.33333333333334,
+            "b": 487.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "019104567781",
+      "text": "019104567781"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 272.0,
+            "t": 500.66666666666663,
+            "r": 331.0,
+            "b": 487.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "24.97X",
+      "text": "24.97X"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 27.0,
+            "t": 486.33333333333337,
+            "r": 116.33333333333333,
+            "b": 471.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "DEXAS 15X20",
+      "text": "DEXAS 15X20"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 131.33333333333334,
+            "t": 484.66666666666663,
+            "r": 225.33333333333334,
+            "b": 470.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "008429710921",
+      "text": "008429710921"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 273.6666666666667,
+            "t": 485.0,
+            "r": 329.6666666666667,
+            "b": 471.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "12.97X",
+      "text": "12.97X"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 170.66666666666666,
+            "t": 469.0,
+            "r": 233.0,
+            "b": 455.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "SUBTOTAL",
+      "text": "SUBTOTAL"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 272.6666666666667,
+            "t": 469.66666666666663,
+            "r": 313.3333333333333,
+            "b": 455.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "46.44",
+      "text": "46.44"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 99.66666666666667,
+            "t": 455.0,
+            "r": 142.0,
+            "b": 439.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "TAX1",
+      "text": "TAX1"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 161.33333333333334,
+            "t": 454.33333333333337,
+            "r": 219.33333333333334,
+            "b": 439.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "7.750%",
+      "text": "7.750%"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 278.3333333333333,
+            "t": 454.33333333333337,
+            "r": 313.3333333333333,
+            "b": 440.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "3.46",
+      "text": "3.46"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 193.33333333333334,
+            "t": 439.0,
+            "r": 233.66666666666666,
+            "b": 424.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "TOTAL",
+      "text": "TOTAL"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 272.0,
+            "t": 438.66666666666663,
+            "r": 313.0,
+            "b": 424.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "49.90",
+      "text": "49.90"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 146.66666666666666,
+            "t": 423.33333333333337,
+            "r": 234.33333333333334,
+            "b": 408.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "DEBITTEND",
+      "text": "DEBITTEND"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 271.6666666666667,
+            "t": 423.66666666666663,
+            "r": 313.0,
+            "b": 408.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "49.90",
+      "text": "49.90"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 155.33333333333334,
+            "t": 407.0,
+            "r": 233.66666666666666,
+            "b": 394.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "CHANGE DUE",
+      "text": "CHANGE DUE"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 278.3333333333333,
+            "t": 408.33333333333337,
+            "r": 313.3333333333333,
+            "b": 393.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "0.00",
+      "text": "0.00"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 27.333333333333332,
+            "t": 392.6666666666667,
+            "r": 100.66666666666667,
+            "b": 378.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "EFTDEBIT",
+      "text": "EFTDEBIT"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 154.66666666666666,
+            "t": 391.6666666666667,
+            "r": 279.3333333333333,
+            "b": 378.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "PAY FROM PRIMARY",
+      "text": "PAY FROM PRIMARY"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 51.333333333333336,
+            "t": 377.0,
+            "r": 94.0,
+            "b": 363.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "49.90",
+      "text": "49.90"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 108.0,
+            "t": 377.0,
+            "r": 217.33333333333334,
+            "b": 362.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "TOTAL PURCHASE",
+      "text": "TOTAL PURCHASE"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 27.0,
+            "t": 361.6666666666667,
+            "r": 92.0,
+            "b": 348.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "US DEBIT",
+      "text": "US DEBIT"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 146.0,
+            "t": 361.6666666666667,
+            "r": 328.0,
+            "b": 348.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "************968910",
+      "text": "************968910"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 27.666666666666668,
+            "t": 345.3333333333333,
+            "r": 170.66666666666666,
+            "b": 333.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "REF#029200639128",
+      "text": "REF#029200639128"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 27.0,
+            "t": 330.3333333333333,
+            "r": 288.3333333333333,
+            "b": 317.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "NETW0RK ID.0056APPRC0DE461500",
+      "text": "NETW0RK ID.0056APPRC0DE461500"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.0,
+            "t": 314.3333333333333,
+            "r": 92.0,
+            "b": 302.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "US DEBIT",
+      "text": "US DEBIT"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.0,
+            "t": 299.3333333333333,
+            "r": 171.0,
+            "b": 287.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "AIDA0000000980840",
+      "text": "AIDA0000000980840"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.666666666666668,
+            "t": 282.6666666666667,
+            "r": 186.33333333333334,
+            "b": 272.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "AAC7756F4EB82B54EED",
+      "text": "AAC7756F4EB82B54EED"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 29.0,
+            "t": 268.3333333333333,
+            "r": 179.33333333333334,
+            "b": 256.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "TERMINAL#SC011004",
+      "text": "TERMINAL#SC011004"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 100.33333333333333,
+            "t": 253.33333333333331,
+            "r": 163.66666666666666,
+            "b": 240.33333333333331,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "10/18/20",
+      "text": "10/18/20"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 194.33333333333334,
+            "t": 254.33333333333331,
+            "r": 257.0,
+            "b": 240.66666666666669,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "11:30:42",
+      "text": "11:30:42"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 123.33333333333333,
+            "t": 238.33333333333331,
+            "r": 234.0,
+            "b": 225.66666666666669,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "#ITEMSSOLD4",
+      "text": "#ITEMSSOLD4"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.0,
+            "t": 222.66666666666669,
+            "r": 288.0,
+            "b": 209.66666666666669,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "TC#24004776430588471471",
+      "text": "TC#24004776430588471471"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 67.0,
+            "t": 76.0,
+            "r": 341.6666666666667,
+            "b": 48.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Introducing Walmart+",
+      "text": "Introducing Walmart+",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 88.0,
+            "t": 42.0,
+            "r": 318.0,
+            "b": 24.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "Jointodayatwalmarl.com/plus",
+      "text": "Jointodayatwalmarl.com/plus"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 236.66666666666666,
+            "t": 10.333333333333371,
+            "r": 303.0,
+            "b": 0.33333333333337123,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "EveryDay",
+      "text": "EveryDay"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.80161476135254,
+            "t": 210.16043090820312,
+            "r": 345.7093811035156,
+            "b": 149.61361694335938,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 162.21182250976562,
+            "t": 143.92056274414062,
+            "r": 232.92185974121094,
+            "b": 86.1939697265625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": [
+    {
+      "page_number": 1,
+      "size": {
+        "width": 372,
+        "height": 653
+      },
+      "paddle_ocr_cells": [
+        {
+          "text": "Thank you!ID #7PB65JwCFZ2",
+          "confidence": 0.8974284529685974,
+          "bbox": {
+            "x_min": 29,
+            "y_min": 6,
+            "x_max": 242,
+            "y_max": 20
+          },
+          "polygon": [
+            [
+              29,
+              6
+            ],
+            [
+              242,
+              6
+            ],
+            [
+              242,
+              20
+            ],
+            [
+              29,
+              20
+            ]
+          ]
+        },
+        {
+          "text": "949-498-6669 Mgr:MICHAEI",
+          "confidence": 0.9166560769081116,
+          "bbox": {
+            "x_min": 83,
+            "y_min": 59,
+            "x_max": 269,
+            "y_max": 73
+          },
+          "polygon": [
+            [
+              83,
+              59
+            ],
+            [
+              269,
+              59
+            ],
+            [
+              269,
+              73
+            ],
+            [
+              83,
+              73
+            ]
+          ]
+        },
+        {
+          "text": "951 AVENIDA PICO",
+          "confidence": 0.9502078294754028,
+          "bbox": {
+            "x_min": 114,
+            "y_min": 74,
+            "x_max": 242,
+            "y_max": 89
+          },
+          "polygon": [
+            [
+              114,
+              74
+            ],
+            [
+              242,
+              74
+            ],
+            [
+              242,
+              89
+            ],
+            [
+              114,
+              89
+            ]
+          ]
+        },
+        {
+          "text": "SAN CLEMENTE CA 92673",
+          "confidence": 0.9328525066375732,
+          "bbox": {
+            "x_min": 90,
+            "y_min": 89,
+            "x_max": 259,
+            "y_max": 105
+          },
+          "polygon": [
+            [
+              90,
+              89
+            ],
+            [
+              259,
+              91
+            ],
+            [
+              259,
+              105
+            ],
+            [
+              90,
+              103
+            ]
+          ]
+        },
+        {
+          "text": "ST#02527 0P#009045 TE#45 TR#06193",
+          "confidence": 0.9266843199729919,
+          "bbox": {
+            "x_min": 25,
+            "y_min": 102,
+            "x_max": 324,
+            "y_max": 121
+          },
+          "polygon": [
+            [
+              25,
+              102
+            ],
+            [
+              324,
+              104
+            ],
+            [
+              323,
+              121
+            ],
+            [
+              25,
+              119
+            ]
+          ]
+        },
+        {
+          "text": "GV OATMEAL",
+          "confidence": 0.9435890316963196,
+          "bbox": {
+            "x_min": 25,
+            "y_min": 118,
+            "x_max": 131,
+            "y_max": 135
+          },
+          "polygon": [
+            [
+              25,
+              118
+            ],
+            [
+              131,
+              120
+            ],
+            [
+              131,
+              135
+            ],
+            [
+              25,
+              133
+            ]
+          ]
+        },
+        {
+          "text": "007874243408 F",
+          "confidence": 0.9620299935340881,
+          "bbox": {
+            "x_min": 130,
+            "y_min": 121,
+            "x_max": 242,
+            "y_max": 136
+          },
+          "polygon": [
+            [
+              130,
+              121
+            ],
+            [
+              242,
+              121
+            ],
+            [
+              242,
+              136
+            ],
+            [
+              130,
+              136
+            ]
+          ]
+        },
+        {
+          "text": "1.760",
+          "confidence": 0.994468092918396,
+          "bbox": {
+            "x_min": 279,
+            "y_min": 121,
+            "x_max": 330,
+            "y_max": 136
+          },
+          "polygon": [
+            [
+              279,
+              121
+            ],
+            [
+              330,
+              121
+            ],
+            [
+              330,
+              136
+            ],
+            [
+              279,
+              136
+            ]
+          ]
+        },
+        {
+          "text": "OT 200Z TUM",
+          "confidence": 0.8907942175865173,
+          "bbox": {
+            "x_min": 25,
+            "y_min": 134,
+            "x_max": 131,
+            "y_max": 150
+          },
+          "polygon": [
+            [
+              25,
+              134
+            ],
+            [
+              131,
+              136
+            ],
+            [
+              131,
+              150
+            ],
+            [
+              25,
+              148
+            ]
+          ]
+        },
+        {
+          "text": "081236803115",
+          "confidence": 0.9989665150642395,
+          "bbox": {
+            "x_min": 130,
+            "y_min": 137,
+            "x_max": 227,
+            "y_max": 151
+          },
+          "polygon": [
+            [
+              130,
+              137
+            ],
+            [
+              227,
+              137
+            ],
+            [
+              227,
+              151
+            ],
+            [
+              130,
+              151
+            ]
+          ]
+        },
+        {
+          "text": "6.74X",
+          "confidence": 0.8932258486747742,
+          "bbox": {
+            "x_min": 279,
+            "y_min": 137,
+            "x_max": 330,
+            "y_max": 151
+          },
+          "polygon": [
+            [
+              279,
+              137
+            ],
+            [
+              330,
+              137
+            ],
+            [
+              330,
+              151
+            ],
+            [
+              279,
+              151
+            ]
+          ]
+        },
+        {
+          "text": "M ATHLETICS",
+          "confidence": 0.9585142731666565,
+          "bbox": {
+            "x_min": 26,
+            "y_min": 151,
+            "x_max": 118,
+            "y_max": 165
+          },
+          "polygon": [
+            [
+              26,
+              151
+            ],
+            [
+              118,
+              151
+            ],
+            [
+              118,
+              165
+            ],
+            [
+              26,
+              165
+            ]
+          ]
+        },
+        {
+          "text": "019104567781",
+          "confidence": 0.9986696243286133,
+          "bbox": {
+            "x_min": 130,
+            "y_min": 152,
+            "x_max": 226,
+            "y_max": 166
+          },
+          "polygon": [
+            [
+              130,
+              152
+            ],
+            [
+              226,
+              152
+            ],
+            [
+              226,
+              166
+            ],
+            [
+              130,
+              166
+            ]
+          ]
+        },
+        {
+          "text": "24.97X",
+          "confidence": 0.9560561180114746,
+          "bbox": {
+            "x_min": 272,
+            "y_min": 152,
+            "x_max": 330,
+            "y_max": 166
+          },
+          "polygon": [
+            [
+              272,
+              152
+            ],
+            [
+              330,
+              152
+            ],
+            [
+              330,
+              166
+            ],
+            [
+              272,
+              166
+            ]
+          ]
+        },
+        {
+          "text": "DEXAS 15X20",
+          "confidence": 0.9397046566009521,
+          "bbox": {
+            "x_min": 26,
+            "y_min": 165,
+            "x_max": 118,
+            "y_max": 182
+          },
+          "polygon": [
+            [
+              26,
+              165
+            ],
+            [
+              118,
+              167
+            ],
+            [
+              118,
+              182
+            ],
+            [
+              26,
+              179
+            ]
+          ]
+        },
+        {
+          "text": "008429710921",
+          "confidence": 0.999358594417572,
+          "bbox": {
+            "x_min": 130,
+            "y_min": 168,
+            "x_max": 226,
+            "y_max": 183
+          },
+          "polygon": [
+            [
+              130,
+              168
+            ],
+            [
+              226,
+              168
+            ],
+            [
+              226,
+              183
+            ],
+            [
+              130,
+              183
+            ]
+          ]
+        },
+        {
+          "text": "12.97",
+          "confidence": 0.9973468780517578,
+          "bbox": {
+            "x_min": 272,
+            "y_min": 166,
+            "x_max": 331,
+            "y_max": 184
+          },
+          "polygon": [
+            [
+              272,
+              166
+            ],
+            [
+              331,
+              166
+            ],
+            [
+              331,
+              184
+            ],
+            [
+              272,
+              184
+            ]
+          ]
+        },
+        {
+          "text": "SUBTOTAL",
+          "confidence": 0.9968070387840271,
+          "bbox": {
+            "x_min": 170,
+            "y_min": 183,
+            "x_max": 232,
+            "y_max": 197
+          },
+          "polygon": [
+            [
+              170,
+              183
+            ],
+            [
+              232,
+              183
+            ],
+            [
+              232,
+              197
+            ],
+            [
+              170,
+              197
+            ]
+          ]
+        },
+        {
+          "text": "46.44",
+          "confidence": 0.9975903630256653,
+          "bbox": {
+            "x_min": 272,
+            "y_min": 183,
+            "x_max": 313,
+            "y_max": 198
+          },
+          "polygon": [
+            [
+              272,
+              183
+            ],
+            [
+              313,
+              183
+            ],
+            [
+              313,
+              198
+            ],
+            [
+              272,
+              198
+            ]
+          ]
+        },
+        {
+          "text": "TAX1",
+          "confidence": 0.9822448492050171,
+          "bbox": {
+            "x_min": 99,
+            "y_min": 197,
+            "x_max": 160,
+            "y_max": 214
+          },
+          "polygon": [
+            [
+              99,
+              197
+            ],
+            [
+              160,
+              197
+            ],
+            [
+              160,
+              214
+            ],
+            [
+              99,
+              214
+            ]
+          ]
+        },
+        {
+          "text": "7.750%",
+          "confidence": 0.9658229351043701,
+          "bbox": {
+            "x_min": 161,
+            "y_min": 199,
+            "x_max": 220,
+            "y_max": 213
+          },
+          "polygon": [
+            [
+              161,
+              199
+            ],
+            [
+              220,
+              199
+            ],
+            [
+              220,
+              213
+            ],
+            [
+              161,
+              213
+            ]
+          ]
+        },
+        {
+          "text": "3.46",
+          "confidence": 0.9979318976402283,
+          "bbox": {
+            "x_min": 278,
+            "y_min": 198,
+            "x_max": 313,
+            "y_max": 213
+          },
+          "polygon": [
+            [
+              278,
+              198
+            ],
+            [
+              313,
+              198
+            ],
+            [
+              313,
+              213
+            ],
+            [
+              278,
+              213
+            ]
+          ]
+        },
+        {
+          "text": "TOTAL",
+          "confidence": 0.9966825246810913,
+          "bbox": {
+            "x_min": 194,
+            "y_min": 214,
+            "x_max": 232,
+            "y_max": 229
+          },
+          "polygon": [
+            [
+              194,
+              214
+            ],
+            [
+              232,
+              214
+            ],
+            [
+              232,
+              229
+            ],
+            [
+              194,
+              229
+            ]
+          ]
+        },
+        {
+          "text": "49.90",
+          "confidence": 0.9979815483093262,
+          "bbox": {
+            "x_min": 272,
+            "y_min": 213,
+            "x_max": 314,
+            "y_max": 229
+          },
+          "polygon": [
+            [
+              272,
+              213
+            ],
+            [
+              314,
+              213
+            ],
+            [
+              314,
+              229
+            ],
+            [
+              272,
+              229
+            ]
+          ]
+        },
+        {
+          "text": "DEBIT TEND",
+          "confidence": 0.9593600034713745,
+          "bbox": {
+            "x_min": 146,
+            "y_min": 229,
+            "x_max": 235,
+            "y_max": 246
+          },
+          "polygon": [
+            [
+              146,
+              229
+            ],
+            [
+              235,
+              229
+            ],
+            [
+              235,
+              246
+            ],
+            [
+              146,
+              246
+            ]
+          ]
+        },
+        {
+          "text": "49.90",
+          "confidence": 0.9987446665763855,
+          "bbox": {
+            "x_min": 271,
+            "y_min": 230,
+            "x_max": 314,
+            "y_max": 244
+          },
+          "polygon": [
+            [
+              271,
+              230
+            ],
+            [
+              314,
+              230
+            ],
+            [
+              314,
+              244
+            ],
+            [
+              271,
+              244
+            ]
+          ]
+        },
+        {
+          "text": "CHANGE DUE",
+          "confidence": 0.9558826684951782,
+          "bbox": {
+            "x_min": 155,
+            "y_min": 246,
+            "x_max": 233,
+            "y_max": 259
+          },
+          "polygon": [
+            [
+              155,
+              246
+            ],
+            [
+              233,
+              246
+            ],
+            [
+              233,
+              259
+            ],
+            [
+              155,
+              259
+            ]
+          ]
+        },
+        {
+          "text": "0.00",
+          "confidence": 0.9982532262802124,
+          "bbox": {
+            "x_min": 278,
+            "y_min": 245,
+            "x_max": 314,
+            "y_max": 260
+          },
+          "polygon": [
+            [
+              278,
+              245
+            ],
+            [
+              314,
+              245
+            ],
+            [
+              314,
+              260
+            ],
+            [
+              278,
+              260
+            ]
+          ]
+        },
+        {
+          "text": "EFT DEBIT",
+          "confidence": 0.9491318464279175,
+          "bbox": {
+            "x_min": 27,
+            "y_min": 260,
+            "x_max": 101,
+            "y_max": 274
+          },
+          "polygon": [
+            [
+              27,
+              260
+            ],
+            [
+              101,
+              260
+            ],
+            [
+              101,
+              274
+            ],
+            [
+              27,
+              274
+            ]
+          ]
+        },
+        {
+          "text": "PAY FROM PRIMARY",
+          "confidence": 0.9519751071929932,
+          "bbox": {
+            "x_min": 155,
+            "y_min": 261,
+            "x_max": 280,
+            "y_max": 274
+          },
+          "polygon": [
+            [
+              155,
+              261
+            ],
+            [
+              280,
+              261
+            ],
+            [
+              280,
+              274
+            ],
+            [
+              155,
+              274
+            ]
+          ]
+        },
+        {
+          "text": "49.90",
+          "confidence": 0.9981307983398438,
+          "bbox": {
+            "x_min": 50,
+            "y_min": 275,
+            "x_max": 95,
+            "y_max": 290
+          },
+          "polygon": [
+            [
+              50,
+              275
+            ],
+            [
+              95,
+              275
+            ],
+            [
+              95,
+              290
+            ],
+            [
+              50,
+              290
+            ]
+          ]
+        },
+        {
+          "text": "TOTAL PURCHASE",
+          "confidence": 0.9751869440078735,
+          "bbox": {
+            "x_min": 106,
+            "y_min": 275,
+            "x_max": 219,
+            "y_max": 290
+          },
+          "polygon": [
+            [
+              106,
+              275
+            ],
+            [
+              219,
+              275
+            ],
+            [
+              219,
+              290
+            ],
+            [
+              106,
+              290
+            ]
+          ]
+        },
+        {
+          "text": "US DEBIT",
+          "confidence": 0.9310497641563416,
+          "bbox": {
+            "x_min": 26,
+            "y_min": 291,
+            "x_max": 93,
+            "y_max": 305
+          },
+          "polygon": [
+            [
+              26,
+              291
+            ],
+            [
+              93,
+              291
+            ],
+            [
+              93,
+              305
+            ],
+            [
+              26,
+              305
+            ]
+          ]
+        },
+        {
+          "text": "***9689I0",
+          "confidence": 0.8111024498939514,
+          "bbox": {
+            "x_min": 223,
+            "y_min": 289,
+            "x_max": 329,
+            "y_max": 305
+          },
+          "polygon": [
+            [
+              223,
+              289
+            ],
+            [
+              329,
+              291
+            ],
+            [
+              328,
+              305
+            ],
+            [
+              223,
+              303
+            ]
+          ]
+        },
+        {
+          "text": "REF#029200639128",
+          "confidence": 0.9962303638458252,
+          "bbox": {
+            "x_min": 26,
+            "y_min": 307,
+            "x_max": 172,
+            "y_max": 320
+          },
+          "polygon": [
+            [
+              26,
+              307
+            ],
+            [
+              172,
+              307
+            ],
+            [
+              172,
+              320
+            ],
+            [
+              26,
+              320
+            ]
+          ]
+        },
+        {
+          "text": "NETW0RK ID. 0056 APPR C0DE 461500",
+          "confidence": 0.9110355377197266,
+          "bbox": {
+            "x_min": 25,
+            "y_min": 321,
+            "x_max": 289,
+            "y_max": 337
+          },
+          "polygon": [
+            [
+              25,
+              322
+            ],
+            [
+              289,
+              321
+            ],
+            [
+              289,
+              336
+            ],
+            [
+              25,
+              337
+            ]
+          ]
+        },
+        {
+          "text": "US DEBIT",
+          "confidence": 0.9341216683387756,
+          "bbox": {
+            "x_min": 27,
+            "y_min": 338,
+            "x_max": 92,
+            "y_max": 352
+          },
+          "polygon": [
+            [
+              27,
+              338
+            ],
+            [
+              92,
+              338
+            ],
+            [
+              92,
+              352
+            ],
+            [
+              27,
+              352
+            ]
+          ]
+        },
+        {
+          "text": "AID A0000000980840",
+          "confidence": 0.975560188293457,
+          "bbox": {
+            "x_min": 28,
+            "y_min": 353,
+            "x_max": 172,
+            "y_max": 367
+          },
+          "polygon": [
+            [
+              28,
+              353
+            ],
+            [
+              172,
+              353
+            ],
+            [
+              172,
+              367
+            ],
+            [
+              28,
+              367
+            ]
+          ]
+        },
+        {
+          "text": "AAC 7756F4EB82B54EED",
+          "confidence": 0.9618686437606812,
+          "bbox": {
+            "x_min": 27,
+            "y_min": 367,
+            "x_max": 187,
+            "y_max": 383
+          },
+          "polygon": [
+            [
+              27,
+              368
+            ],
+            [
+              187,
+              367
+            ],
+            [
+              187,
+              382
+            ],
+            [
+              27,
+              383
+            ]
+          ]
+        },
+        {
+          "text": "TERMINAL#SC011004",
+          "confidence": 0.9839038848876953,
+          "bbox": {
+            "x_min": 29,
+            "y_min": 384,
+            "x_max": 181,
+            "y_max": 398
+          },
+          "polygon": [
+            [
+              29,
+              384
+            ],
+            [
+              181,
+              384
+            ],
+            [
+              181,
+              398
+            ],
+            [
+              29,
+              398
+            ]
+          ]
+        },
+        {
+          "text": "10/18/20",
+          "confidence": 0.9944071769714355,
+          "bbox": {
+            "x_min": 100,
+            "y_min": 399,
+            "x_max": 189,
+            "y_max": 413
+          },
+          "polygon": [
+            [
+              100,
+              399
+            ],
+            [
+              189,
+              399
+            ],
+            [
+              189,
+              413
+            ],
+            [
+              100,
+              413
+            ]
+          ]
+        },
+        {
+          "text": "11:30:42",
+          "confidence": 0.9169650077819824,
+          "bbox": {
+            "x_min": 190,
+            "y_min": 400,
+            "x_max": 256,
+            "y_max": 411
+          },
+          "polygon": [
+            [
+              190,
+              400
+            ],
+            [
+              256,
+              400
+            ],
+            [
+              256,
+              411
+            ],
+            [
+              190,
+              411
+            ]
+          ]
+        },
+        {
+          "text": "#ITEMS SOLD 4",
+          "confidence": 0.9100316762924194,
+          "bbox": {
+            "x_min": 121,
+            "y_min": 414,
+            "x_max": 234,
+            "y_max": 428
+          },
+          "polygon": [
+            [
+              121,
+              414
+            ],
+            [
+              234,
+              414
+            ],
+            [
+              234,
+              428
+            ],
+            [
+              121,
+              428
+            ]
+          ]
+        },
+        {
+          "text": "TC#2400 4776 4305 8847 1471",
+          "confidence": 0.9257311820983887,
+          "bbox": {
+            "x_min": 68,
+            "y_min": 430,
+            "x_max": 288,
+            "y_max": 444
+          },
+          "polygon": [
+            [
+              68,
+              430
+            ],
+            [
+              288,
+              430
+            ],
+            [
+              288,
+              444
+            ],
+            [
+              68,
+              444
+            ]
+          ]
+        },
+        {
+          "text": "Introducing Walmart+",
+          "confidence": 0.9748479723930359,
+          "bbox": {
+            "x_min": 67,
+            "y_min": 576,
+            "x_max": 340,
+            "y_max": 602
+          },
+          "polygon": [
+            [
+              67,
+              578
+            ],
+            [
+              340,
+              576
+            ],
+            [
+              340,
+              601
+            ],
+            [
+              67,
+              602
+            ]
+          ]
+        },
+        {
+          "text": "Join today at walmarL.com/plus",
+          "confidence": 0.9429001212120056,
+          "bbox": {
+            "x_min": 88,
+            "y_min": 611,
+            "x_max": 318,
+            "y_max": 629
+          },
+          "polygon": [
+            [
+              88,
+              611
+            ],
+            [
+              318,
+              611
+            ],
+            [
+              318,
+              629
+            ],
+            [
+              88,
+              629
+            ]
+          ]
+        },
+        {
+          "text": "Teet",
+          "confidence": 0.6482038497924805,
+          "bbox": {
+            "x_min": 170,
+            "y_min": 644,
+            "x_max": 233,
+            "y_max": 651
+          },
+          "polygon": [
+            [
+              170,
+              644
+            ],
+            [
+              233,
+              644
+            ],
+            [
+              233,
+              651
+            ],
+            [
+              170,
+              651
+            ]
+          ]
+        },
+        {
+          "text": "Fyery Da",
+          "confidence": 0.7608757019042969,
+          "bbox": {
+            "x_min": 231,
+            "y_min": 642,
+            "x_max": 302,
+            "y_max": 652
+          },
+          "polygon": [
+            [
+              231,
+              642
+            ],
+            [
+              302,
+              642
+            ],
+            [
+              302,
+              652
+            ],
+            [
+              231,
+              652
+            ]
+          ]
+        }
+      ],
+      "extracted_text": "Thank you!ID #7PB65JwCFZ2\n949-498-6669 Mgr:MICHAEI\n951 AVENIDA PICO\nSAN CLEMENTE CA 92673\nST#02527 0P#009045 TE#45 TR#06193\nGV OATMEAL\n007874243408 F\n1.760\nOT 200Z TUM\n081236803115\n6.74X\nM ATHLETICS\n019104567781\n24.97X\nDEXAS 15X20\n008429710921\n12.97\nSUBTOTAL\n46.44\nTAX1\n7.750%\n3.46\nTOTAL\n49.90\nDEBIT TEND\n49.90\nCHANGE DUE\n0.00\nEFT DEBIT\nPAY FROM PRIMARY\n49.90\nTOTAL PURCHASE\nUS DEBIT\n***9689I0\nREF#029200639128\nNETW0RK ID. 0056 APPR C0DE 461500\nUS DEBIT\nAID A0000000980840\nAAC 7756F4EB82B54EED\nTERMINAL#SC011004\n10/18/20\n11:30:42\n#ITEMS SOLD 4\nTC#2400 4776 4305 8847 1471\nIntroducing Walmart+\nJoin today at walmarL.com/plus\nTeet\nFyery Da",
+      "text_block_count": 48
+    }
+  ],
+  "metadata": {
+    "ocr_engine": "PaddleOCR",
+    "structure_engine": "Docling",
+    "total_text_blocks": 48,
+    "total_pages": 1
+  }
+}

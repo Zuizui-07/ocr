@@ -1,0 +1,65 @@
+=== Page 1 ===
+gupshup
+TAX Invoice
+Billto
+AUXILO FINSERVE PRIVATE UMITED
+AUXILOFINSERVE PRIVATE LIMITED
+Unit No 63 and pert of Unit No G4 Cth Flor
+PUNE-411001
+Kalpataru Square Kondivita Road
+PUNE-411001
+Maharashtra
+Maharashtra
+INDIA
+INDIA
+Atlention Name: Sandeep Sandeep
+Place of Supply 27
+Reverse Charge Appicable: N
+GSTN/VAT: 27AAXCS7051B1Z2
+Invoice No : 132726151531
+Billing Period : Dec-2025
+Invoice Date : 01-JAN2026
+Payment Due Date : 31-JAN-2025
+PO Number
+Invoice Amount : (INR) 31.968.72
+IRN Number : 3209624059fda00737c214f86e0e668c7a0fb1a62536463b35cab1259e1#511
+Summary
+Services:
+Volume
+Rate
+Charges In
+(INR)
+998599 SMS
+Transactional Messaging
+206,704
+0.13
+26,871.52
+2000175766
+998599 WHATSAPP
+Authentication Per Message
+410
+0.1261
+51.70
+2000225124India
+Marketing Per Message
+998599 WHATSAPP
+2000225124-India
+180
+0.86
+154.80
+998599 WHATSAPP
+Utility Per Message
+112
+2000225124-Indis
+0.1261
+14.12
+Taxable Amount
+27,092.14
+CGST @9%
+SGST@9%
+2,436.29 
+2,438.29
+Signature valjd
+Digitally signed by N
+Sonawane
+Sh Shivaji

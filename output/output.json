@@ -1,0 +1,1720 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.9.0",
+  "name": "Image",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 8184956817279676105,
+    "filename": "Image.jpg"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/tables/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [],
+  "pictures": [],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 264.5267333984375,
+            "t": 2931.940872192383,
+            "r": 3914.0908203125,
+            "b": 160.115966796875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 1544.51611328125,
+              "t": 108.574462890625,
+              "r": 2963.0322265625,
+              "b": 2861.1383463541665,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "I confirm that the services/goods have been satisfactorily completed or received are as per the Terms of Agreement/PO and are within overall scope 31968.73 31968.73 of work. The payment being approved is as per the commercial terms agreed with the vendor. Licnese & Certification Charges Collection Agency Charges Marketing Expenses (SEO) Computer & Internet Expense HR and Admin Expense  Field Invest. Agency PD expenses Stamp Duty Other (Please specify) PAISE",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 351.5806477864583,
+              "t": 221.17020670572916,
+              "r": 1028.3225911458333,
+              "b": 2780.7125651041665,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "01-01-2026 132726151531 Purchase Order (PO) / Email confirmation Date of Expiry Date of Expiry InvoiceDate Invoice No. AUXILO FINSERVE PRIVATE LIMITED Vendor Payment Form Yes Gupshup Technology India Private Limited Whether Purchase Order (PO) / Email Confirmation Vendor Name is approved",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 3001.6451822916665,
+              "t": 577.0531819661459,
+              "r": 3300.3870442708335,
+              "b": 2867.1702473958335,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "Name :Abhilash Pillai Name:Mrunal Salvi 1 亿业 MSalw 0 Owner's Sign (with Date) Approved By (with Date)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 3385.7418619791665,
+              "t": 577.0531819661459,
+              "r": 3556.4514973958335,
+              "b": 1033.468017578125,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Name:Benoy Joseph Name:N/A",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 3645.8707682291665,
+              "t": 607.2127278645834,
+              "r": 3690.5807291666665,
+              "b": 1027.4361165364583,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "Name:Mrunal Salvi",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 1,
+        "num_cols": 5,
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 351.5806477864583,
+                "t": 221.17020670572916,
+                "r": 1028.3225911458333,
+                "b": 2780.7125651041665,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "01-01-2026 132726151531 Purchase Order (PO) / Email confirmation Date of Expiry Date of Expiry InvoiceDate Invoice No. AUXILO FINSERVE PRIVATE LIMITED Vendor Payment Form Yes Gupshup Technology India Private Limited Whether Purchase Order (PO) / Email Confirmation Vendor Name is approved",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 1544.51611328125,
+                "t": 108.574462890625,
+                "r": 2963.0322265625,
+                "b": 2861.1383463541665,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "I confirm that the services/goods have been satisfactorily completed or received are as per the Terms of Agreement/PO and are within overall scope 31968.73 31968.73 of work. The payment being approved is as per the commercial terms agreed with the vendor. Licnese & Certification Charges Collection Agency Charges Marketing Expenses (SEO) Computer & Internet Expense HR and Admin Expense  Field Invest. Agency PD expenses Stamp Duty Other (Please specify) PAISE",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 3001.6451822916665,
+                "t": 577.0531819661459,
+                "r": 3300.3870442708335,
+                "b": 2867.1702473958335,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Name :Abhilash Pillai Name:Mrunal Salvi 1 亿业 MSalw 0 Owner's Sign (with Date) Approved By (with Date)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 3385.7418619791665,
+                "t": 577.0531819661459,
+                "r": 3556.4514973958335,
+                "b": 1033.468017578125,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Name:Benoy Joseph Name:N/A",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 3645.8707682291665,
+                "t": 607.2127278645834,
+                "r": 3690.5807291666665,
+                "b": 1027.4361165364583,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "Name:Mrunal Salvi",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": [
+    {
+      "page_number": 1,
+      "size": {
+        "width": 4032,
+        "height": 3024
+      },
+      "paddle_ocr_cells": [
+        {
+          "text": "Invoice Amt.",
+          "confidence": 0.9896777272224426,
+          "bbox": {
+            "x_min": 1331,
+            "y_min": 163,
+            "x_max": 1390,
+            "y_max": 468
+          },
+          "polygon": [
+            [
+              1331,
+              163
+            ],
+            [
+              1390,
+              163
+            ],
+            [
+              1390,
+              468
+            ],
+            [
+              1331,
+              468
+            ]
+          ]
+        },
+        {
+          "text": "31968.73",
+          "confidence": 0.9945288896560669,
+          "bbox": {
+            "x_min": 2045,
+            "y_min": 163,
+            "x_max": 2104,
+            "y_max": 391
+          },
+          "polygon": [
+            [
+              2045,
+              163
+            ],
+            [
+              2104,
+              163
+            ],
+            [
+              2104,
+              391
+            ],
+            [
+              2045,
+              391
+            ]
+          ]
+        },
+        {
+          "text": "31968.73",
+          "confidence": 0.991102933883667,
+          "bbox": {
+            "x_min": 2759,
+            "y_min": 155,
+            "x_max": 2818,
+            "y_max": 387
+          },
+          "polygon": [
+            [
+              2759,
+              155
+            ],
+            [
+              2818,
+              155
+            ],
+            [
+              2818,
+              387
+            ],
+            [
+              2759,
+              387
+            ]
+          ]
+        },
+        {
+          "text": "132726151531",
+          "confidence": 0.9992778897285461,
+          "bbox": {
+            "x_min": 620,
+            "y_min": 218,
+            "x_max": 698,
+            "y_max": 508
+          },
+          "polygon": [
+            [
+              620,
+              222
+            ],
+            [
+              679,
+              218
+            ],
+            [
+              698,
+              504
+            ],
+            [
+              640,
+              508
+            ]
+          ]
+        },
+        {
+          "text": "01-01-2026",
+          "confidence": 0.9903069734573364,
+          "bbox": {
+            "x_min": 562,
+            "y_min": 235,
+            "x_max": 631,
+            "y_max": 508
+          },
+          "polygon": [
+            [
+              562,
+              238
+            ],
+            [
+              621,
+              235
+            ],
+            [
+              631,
+              505
+            ],
+            [
+              572,
+              508
+            ]
+          ]
+        },
+        {
+          "text": "ON",
+          "confidence": 0.9913989305496216,
+          "bbox": {
+            "x_min": 1151,
+            "y_min": 322,
+            "x_max": 1184,
+            "y_max": 399
+          },
+          "polygon": [
+            [
+              1151,
+              322
+            ],
+            [
+              1184,
+              322
+            ],
+            [
+              1184,
+              399
+            ],
+            [
+              1151,
+              399
+            ]
+          ]
+        },
+        {
+          "text": "Ext No./Mobile No.",
+          "confidence": 0.9583045244216919,
+          "bbox": {
+            "x_min": 1209,
+            "y_min": 562,
+            "x_max": 1277,
+            "y_max": 1044
+          },
+          "polygon": [
+            [
+              1209,
+              563
+            ],
+            [
+              1268,
+              562
+            ],
+            [
+              1277,
+              1043
+            ],
+            [
+              1218,
+              1044
+            ]
+          ]
+        },
+        {
+          "text": "Name :Benoy Joseph",
+          "confidence": 0.9417684078216553,
+          "bbox": {
+            "x_min": 3368,
+            "y_min": 566,
+            "x_max": 3440,
+            "y_max": 1040
+          },
+          "polygon": [
+            [
+              3382,
+              566
+            ],
+            [
+              3440,
+              568
+            ],
+            [
+              3427,
+              1040
+            ],
+            [
+              3368,
+              1038
+            ]
+          ]
+        },
+        {
+          "text": "Purchase Order (PO)",
+          "confidence": 0.9767558574676514,
+          "bbox": {
+            "x_min": 797,
+            "y_min": 587,
+            "x_max": 892,
+            "y_max": 1049
+          },
+          "polygon": [
+            [
+              797,
+              591
+            ],
+            [
+              868,
+              587
+            ],
+            [
+              892,
+              1046
+            ],
+            [
+              820,
+              1049
+            ]
+          ]
+        },
+        {
+          "text": "/ Email confirmation",
+          "confidence": 0.9420243501663208,
+          "bbox": {
+            "x_min": 861,
+            "y_min": 600,
+            "x_max": 942,
+            "y_max": 1045
+          },
+          "polygon": [
+            [
+              861,
+              603
+            ],
+            [
+              924,
+              600
+            ],
+            [
+              942,
+              1042
+            ],
+            [
+              879,
+              1045
+            ]
+          ]
+        },
+        {
+          "text": "Name :Mrunal Salvi",
+          "confidence": 0.9285427927970886,
+          "bbox": {
+            "x_min": 3125,
+            "y_min": 619,
+            "x_max": 3184,
+            "y_max": 1040
+          },
+          "polygon": [
+            [
+              3125,
+              619
+            ],
+            [
+              3184,
+              619
+            ],
+            [
+              3184,
+              1040
+            ],
+            [
+              3125,
+              1040
+            ]
+          ]
+        },
+        {
+          "text": "Date of Expiry",
+          "confidence": 0.9583090543746948,
+          "bbox": {
+            "x_min": 743,
+            "y_min": 626,
+            "x_max": 828,
+            "y_max": 1028
+          },
+          "polygon": [
+            [
+              743,
+              629
+            ],
+            [
+              814,
+              626
+            ],
+            [
+              828,
+              1025
+            ],
+            [
+              757,
+              1028
+            ]
+          ]
+        },
+        {
+          "text": "Date of Expiry",
+          "confidence": 0.982480525970459,
+          "bbox": {
+            "x_min": 962,
+            "y_min": 653,
+            "x_max": 1033,
+            "y_max": 1005
+          },
+          "polygon": [
+            [
+              962,
+              653
+            ],
+            [
+              1033,
+              653
+            ],
+            [
+              1033,
+              1005
+            ],
+            [
+              962,
+              1005
+            ]
+          ]
+        },
+        {
+          "text": "Invoice Date",
+          "confidence": 0.9688460230827332,
+          "bbox": {
+            "x_min": 582,
+            "y_min": 664,
+            "x_max": 669,
+            "y_max": 977
+          },
+          "polygon": [
+            [
+              582,
+              669
+            ],
+            [
+              645,
+              664
+            ],
+            [
+              669,
+              972
+            ],
+            [
+              606,
+              977
+            ]
+          ]
+        },
+        {
+          "text": " Invoice No.",
+          "confidence": 0.9602513909339905,
+          "bbox": {
+            "x_min": 654,
+            "y_min": 682,
+            "x_max": 736,
+            "y_max": 968
+          },
+          "polygon": [
+            [
+              654,
+              686
+            ],
+            [
+              717,
+              682
+            ],
+            [
+              736,
+              963
+            ],
+            [
+              673,
+              968
+            ]
+          ]
+        },
+        {
+          "text": "Agreement",
+          "confidence": 0.9991587400436401,
+          "bbox": {
+            "x_min": 1037,
+            "y_min": 687,
+            "x_max": 1079,
+            "y_max": 949
+          },
+          "polygon": [
+            [
+              1037,
+              687
+            ],
+            [
+              1079,
+              687
+            ],
+            [
+              1079,
+              949
+            ],
+            [
+              1037,
+              949
+            ]
+          ]
+        },
+        {
+          "text": "MSME",
+          "confidence": 0.97002112865448,
+          "bbox": {
+            "x_min": 1155,
+            "y_min": 726,
+            "x_max": 1201,
+            "y_max": 936
+          },
+          "polygon": [
+            [
+              1155,
+              726
+            ],
+            [
+              1201,
+              726
+            ],
+            [
+              1201,
+              936
+            ],
+            [
+              1155,
+              936
+            ]
+          ]
+        },
+        {
+          "text": "MARKETING",
+          "confidence": 0.9940154552459717,
+          "bbox": {
+            "x_min": 1088,
+            "y_min": 739,
+            "x_max": 1147,
+            "y_max": 1074
+          },
+          "polygon": [
+            [
+              1088,
+              739
+            ],
+            [
+              1147,
+              739
+            ],
+            [
+              1147,
+              1074
+            ],
+            [
+              1088,
+              1074
+            ]
+          ]
+        },
+        {
+          "text": "Name:N/A",
+          "confidence": 0.9335198402404785,
+          "bbox": {
+            "x_min": 3503,
+            "y_min": 773,
+            "x_max": 3562,
+            "y_max": 1040
+          },
+          "polygon": [
+            [
+              3503,
+              773
+            ],
+            [
+              3562,
+              773
+            ],
+            [
+              3562,
+              1040
+            ],
+            [
+              3503,
+              1040
+            ]
+          ]
+        },
+        {
+          "text": "AUXILO FINSERVE PRIVATE LIMITED",
+          "confidence": 0.9957272410392761,
+          "bbox": {
+            "x_min": 343,
+            "y_min": 965,
+            "x_max": 459,
+            "y_max": 2046
+          },
+          "polygon": [
+            [
+              343,
+              968
+            ],
+            [
+              415,
+              965
+            ],
+            [
+              459,
+              2043
+            ],
+            [
+              387,
+              2046
+            ]
+          ]
+        },
+        {
+          "text": "MARKETING SBU",
+          "confidence": 0.9757462739944458,
+          "bbox": {
+            "x_min": 1150,
+            "y_min": 1198,
+            "x_max": 1223,
+            "y_max": 1611
+          },
+          "polygon": [
+            [
+              1150,
+              1199
+            ],
+            [
+              1214,
+              1198
+            ],
+            [
+              1223,
+              1610
+            ],
+            [
+              1159,
+              1611
+            ]
+          ]
+        },
+        {
+          "text": "HEAD OFFICE",
+          "confidence": 0.9654526114463806,
+          "bbox": {
+            "x_min": 1213,
+            "y_min": 1219,
+            "x_max": 1286,
+            "y_max": 1586
+          },
+          "polygon": [
+            [
+              1213,
+              1221
+            ],
+            [
+              1272,
+              1219
+            ],
+            [
+              1286,
+              1583
+            ],
+            [
+              1227,
+              1586
+            ]
+          ]
+        },
+        {
+          "text": "Vendor Payment Form",
+          "confidence": 0.9999370574951172,
+          "bbox": {
+            "x_min": 503,
+            "y_min": 1254,
+            "x_max": 580,
+            "y_max": 1770
+          },
+          "polygon": [
+            [
+              503,
+              1256
+            ],
+            [
+              562,
+              1254
+            ],
+            [
+              580,
+              1768
+            ],
+            [
+              521,
+              1770
+            ]
+          ]
+        },
+        {
+          "text": " ON",
+          "confidence": 0.6885226368904114,
+          "bbox": {
+            "x_min": 1289,
+            "y_min": 1310,
+            "x_max": 1336,
+            "y_max": 1486
+          },
+          "polygon": [
+            [
+              1289,
+              1310
+            ],
+            [
+              1336,
+              1310
+            ],
+            [
+              1336,
+              1486
+            ],
+            [
+              1289,
+              1486
+            ]
+          ]
+        },
+        {
+          "text": "Nature & Description of Expense",
+          "confidence": 0.9739978313446045,
+          "bbox": {
+            "x_min": 1344,
+            "y_min": 1310,
+            "x_max": 1424,
+            "y_max": 2041
+          },
+          "polygon": [
+            [
+              1344,
+              1311
+            ],
+            [
+              1415,
+              1310
+            ],
+            [
+              1424,
+              2040
+            ],
+            [
+              1353,
+              2041
+            ]
+          ]
+        },
+        {
+          "text": "Licnese & Certification Charges",
+          "confidence": 0.9932810068130493,
+          "bbox": {
+            "x_min": 2419,
+            "y_min": 1319,
+            "x_max": 2499,
+            "y_max": 2019
+          },
+          "polygon": [
+            [
+              2424,
+              1319
+            ],
+            [
+              2499,
+              1319
+            ],
+            [
+              2495,
+              2019
+            ],
+            [
+              2419,
+              2019
+            ]
+          ]
+        },
+        {
+          "text": "Tss",
+          "confidence": 0.6998546719551086,
+          "bbox": {
+            "x_min": 836,
+            "y_min": 1349,
+            "x_max": 886,
+            "y_max": 1426
+          },
+          "polygon": [
+            [
+              836,
+              1349
+            ],
+            [
+              886,
+              1349
+            ],
+            [
+              886,
+              1426
+            ],
+            [
+              836,
+              1426
+            ]
+          ]
+        },
+        {
+          "text": "ON",
+          "confidence": 0.9238415956497192,
+          "bbox": {
+            "x_min": 987,
+            "y_min": 1357,
+            "x_max": 1033,
+            "y_max": 1443
+          },
+          "polygon": [
+            [
+              987,
+              1357
+            ],
+            [
+              1033,
+              1357
+            ],
+            [
+              1033,
+              1443
+            ],
+            [
+              987,
+              1443
+            ]
+          ]
+        },
+        {
+          "text": "Computer & Internet Expense",
+          "confidence": 0.980405330657959,
+          "bbox": {
+            "x_min": 2167,
+            "y_min": 1349,
+            "x_max": 2239,
+            "y_max": 1993
+          },
+          "polygon": [
+            [
+              2167,
+              1349
+            ],
+            [
+              2239,
+              1349
+            ],
+            [
+              2239,
+              1993
+            ],
+            [
+              2167,
+              1993
+            ]
+          ]
+        },
+        {
+          "text": "Collection Agency Charges",
+          "confidence": 0.9960647821426392,
+          "bbox": {
+            "x_min": 1528,
+            "y_min": 1366,
+            "x_max": 1609,
+            "y_max": 1959
+          },
+          "polygon": [
+            [
+              1528,
+              1367
+            ],
+            [
+              1600,
+              1366
+            ],
+            [
+              1609,
+              1958
+            ],
+            [
+              1537,
+              1959
+            ]
+          ]
+        },
+        {
+          "text": "Marketing Expenses (SEO)",
+          "confidence": 0.9464784264564514,
+          "bbox": {
+            "x_min": 2032,
+            "y_min": 1365,
+            "x_max": 2117,
+            "y_max": 1959
+          },
+          "polygon": [
+            [
+              2032,
+              1367
+            ],
+            [
+              2104,
+              1365
+            ],
+            [
+              2117,
+              1958
+            ],
+            [
+              2046,
+              1959
+            ]
+          ]
+        },
+        {
+          "text": " HR and Admin Expense",
+          "confidence": 0.9705784320831299,
+          "bbox": {
+            "x_min": 1667,
+            "y_min": 1409,
+            "x_max": 1726,
+            "y_max": 1933
+          },
+          "polygon": [
+            [
+              1667,
+              1409
+            ],
+            [
+              1726,
+              1409
+            ],
+            [
+              1726,
+              1933
+            ],
+            [
+              1667,
+              1933
+            ]
+          ]
+        },
+        {
+          "text": "Field Invest. Agency",
+          "confidence": 0.9744576215744019,
+          "bbox": {
+            "x_min": 1793,
+            "y_min": 1443,
+            "x_max": 1852,
+            "y_max": 1894
+          },
+          "polygon": [
+            [
+              1793,
+              1443
+            ],
+            [
+              1852,
+              1443
+            ],
+            [
+              1852,
+              1894
+            ],
+            [
+              1793,
+              1894
+            ]
+          ]
+        },
+        {
+          "text": "Gupshup Technology India Private Limited",
+          "confidence": 0.9884462356567383,
+          "bbox": {
+            "x_min": 680,
+            "y_min": 1490,
+            "x_max": 778,
+            "y_max": 2398
+          },
+          "polygon": [
+            [
+              680,
+              1492
+            ],
+            [
+              756,
+              1490
+            ],
+            [
+              778,
+              2396
+            ],
+            [
+              702,
+              2398
+            ]
+          ]
+        },
+        {
+          "text": "PD expenses",
+          "confidence": 0.9653440713882446,
+          "bbox": {
+            "x_min": 1915,
+            "y_min": 1507,
+            "x_max": 1979,
+            "y_max": 1834
+          },
+          "polygon": [
+            [
+              1920,
+              1507
+            ],
+            [
+              1979,
+              1508
+            ],
+            [
+              1974,
+              1834
+            ],
+            [
+              1915,
+              1834
+            ]
+          ]
+        },
+        {
+          "text": " Stamp Duty",
+          "confidence": 0.9461633563041687,
+          "bbox": {
+            "x_min": 2297,
+            "y_min": 1525,
+            "x_max": 2356,
+            "y_max": 1808
+          },
+          "polygon": [
+            [
+              2297,
+              1525
+            ],
+            [
+              2356,
+              1525
+            ],
+            [
+              2356,
+              1808
+            ],
+            [
+              2297,
+              1808
+            ]
+          ]
+        },
+        {
+          "text": "Other (Please specify)",
+          "confidence": 0.9852021932601929,
+          "bbox": {
+            "x_min": 2549,
+            "y_min": 1610,
+            "x_max": 2634,
+            "y_max": 2114
+          },
+          "polygon": [
+            [
+              2558,
+              1610
+            ],
+            [
+              2634,
+              1612
+            ],
+            [
+              2625,
+              2114
+            ],
+            [
+              2549,
+              2112
+            ]
+          ]
+        },
+        {
+          "text": "Whether Purchase Order (PO) / Email Confirmation",
+          "confidence": 0.9871708750724792,
+          "bbox": {
+            "x_min": 860,
+            "y_min": 1722,
+            "x_max": 950,
+            "y_max": 2784
+          },
+          "polygon": [
+            [
+              860,
+              1723
+            ],
+            [
+              928,
+              1722
+            ],
+            [
+              950,
+              2783
+            ],
+            [
+              882,
+              2784
+            ]
+          ]
+        },
+        {
+          "text": "Vendor Name",
+          "confidence": 0.9792735576629639,
+          "bbox": {
+            "x_min": 638,
+            "y_min": 1791,
+            "x_max": 697,
+            "y_max": 2118
+          },
+          "polygon": [
+            [
+              638,
+              1791
+            ],
+            [
+              697,
+              1791
+            ],
+            [
+              697,
+              2118
+            ],
+            [
+              638,
+              2118
+            ]
+          ]
+        },
+        {
+          "text": "Whether Agreement is signed",
+          "confidence": 0.9973042607307434,
+          "bbox": {
+            "x_min": 1024,
+            "y_min": 1945,
+            "x_max": 1105,
+            "y_max": 2586
+          },
+          "polygon": [
+            [
+              1024,
+              1946
+            ],
+            [
+              1096,
+              1945
+            ],
+            [
+              1105,
+              2585
+            ],
+            [
+              1034,
+              2586
+            ]
+          ]
+        },
+        {
+          "text": "Whether invoice is ISD",
+          "confidence": 0.9799749255180359,
+          "bbox": {
+            "x_min": 1293,
+            "y_min": 2010,
+            "x_max": 1378,
+            "y_max": 2518
+          },
+          "polygon": [
+            [
+              1293,
+              2012
+            ],
+            [
+              1365,
+              2010
+            ],
+            [
+              1378,
+              2516
+            ],
+            [
+              1307,
+              2518
+            ]
+          ]
+        },
+        {
+          "text": "Department Name",
+          "confidence": 0.9998835921287537,
+          "bbox": {
+            "x_min": 1189,
+            "y_min": 2062,
+            "x_max": 1247,
+            "y_max": 2466
+          },
+          "polygon": [
+            [
+              1189,
+              2062
+            ],
+            [
+              1247,
+              2062
+            ],
+            [
+              1247,
+              2466
+            ],
+            [
+              1189,
+              2466
+            ]
+          ]
+        },
+        {
+          "text": "is approved",
+          "confidence": 0.9514217376708984,
+          "bbox": {
+            "x_min": 936,
+            "y_min": 2108,
+            "x_max": 1000,
+            "y_max": 2419
+          },
+          "polygon": [
+            [
+              936,
+              2110
+            ],
+            [
+              991,
+              2108
+            ],
+            [
+              1000,
+              2417
+            ],
+            [
+              946,
+              2419
+            ]
+          ]
+        },
+        {
+          "text": "MD/CEO Sign (if required) (with Date)",
+          "confidence": 0.9492559432983398,
+          "bbox": {
+            "x_min": 3435,
+            "y_min": 2134,
+            "x_max": 3529,
+            "y_max": 2870
+          },
+          "polygon": [
+            [
+              3457,
+              2134
+            ],
+            [
+              3529,
+              2136
+            ],
+            [
+              3506,
+              2870
+            ],
+            [
+              3435,
+              2868
+            ]
+          ]
+        },
+        {
+          "text": "Function",
+          "confidence": 0.9880950450897217,
+          "bbox": {
+            "x_min": 1130,
+            "y_min": 2152,
+            "x_max": 1176,
+            "y_max": 2397
+          },
+          "polygon": [
+            [
+              1130,
+              2152
+            ],
+            [
+              1176,
+              2152
+            ],
+            [
+              1176,
+              2397
+            ],
+            [
+              1130,
+              2397
+            ]
+          ]
+        },
+        {
+          "text": "Location",
+          "confidence": 0.994265079498291,
+          "bbox": {
+            "x_min": 1238,
+            "y_min": 2142,
+            "x_max": 1312,
+            "y_max": 2398
+          },
+          "polygon": [
+            [
+              1238,
+              2146
+            ],
+            [
+              1297,
+              2142
+            ],
+            [
+              1312,
+              2394
+            ],
+            [
+              1253,
+              2398
+            ]
+          ]
+        },
+        {
+          "text": "Preparer Sign (with Date)",
+          "confidence": 0.9561209082603455,
+          "bbox": {
+            "x_min": 3561,
+            "y_min": 2362,
+            "x_max": 3651,
+            "y_max": 2870
+          },
+          "polygon": [
+            [
+              3579,
+              2362
+            ],
+            [
+              3651,
+              2364
+            ],
+            [
+              3632,
+              2870
+            ],
+            [
+              3561,
+              2868
+            ]
+          ]
+        },
+        {
+          "text": "Owner's Sign (with Date)",
+          "confidence": 0.9902036786079407,
+          "bbox": {
+            "x_min": 3087,
+            "y_min": 2384,
+            "x_max": 3146,
+            "y_max": 2861
+          },
+          "polygon": [
+            [
+              3087,
+              2384
+            ],
+            [
+              3146,
+              2384
+            ],
+            [
+              3146,
+              2861
+            ],
+            [
+              3087,
+              2861
+            ]
+          ]
+        },
+        {
+          "text": "Approved By (with Date)",
+          "confidence": 0.9439679980278015,
+          "bbox": {
+            "x_min": 3196,
+            "y_min": 2392,
+            "x_max": 3276,
+            "y_max": 2866
+          },
+          "polygon": [
+            [
+              3205,
+              2392
+            ],
+            [
+              3276,
+              2394
+            ],
+            [
+              3267,
+              2866
+            ],
+            [
+              3196,
+              2864
+            ]
+          ]
+        },
+        {
+          "text": "HOD Sign (with Date)",
+          "confidence": 0.9402086138725281,
+          "bbox": {
+            "x_min": 3309,
+            "y_min": 2435,
+            "x_max": 3394,
+            "y_max": 2866
+          },
+          "polygon": [
+            [
+              3323,
+              2435
+            ],
+            [
+              3394,
+              2437
+            ],
+            [
+              3380,
+              2866
+            ],
+            [
+              3309,
+              2863
+            ]
+          ]
+        },
+        {
+          "text": "PAISE",
+          "confidence": 0.9893554449081421,
+          "bbox": {
+            "x_min": 2780,
+            "y_min": 2680,
+            "x_max": 2839,
+            "y_max": 2848
+          },
+          "polygon": [
+            [
+              2780,
+              2680
+            ],
+            [
+              2839,
+              2680
+            ],
+            [
+              2839,
+              2848
+            ],
+            [
+              2780,
+              2848
+            ]
+          ]
+        }
+      ],
+      "extracted_text": "Invoice Amt.\n31968.73\n31968.73\n132726151531\n01-01-2026\nON\nExt No./Mobile No.\nName :Benoy Joseph\nPurchase Order (PO)\n/ Email confirmation\nName :Mrunal Salvi\nDate of Expiry\nDate of Expiry\nInvoice Date\n Invoice No.\nAgreement\nMSME\nMARKETING\nName:N/A\nAUXILO FINSERVE PRIVATE LIMITED\nMARKETING SBU\nHEAD OFFICE\nVendor Payment Form\n ON\nNature & Description of Expense\nLicnese & Certification Charges\nTss\nON\nComputer & Internet Expense\nCollection Agency Charges\nMarketing Expenses (SEO)\n HR and Admin Expense\nField Invest. Agency\nGupshup Technology India Private Limited\nPD expenses\n Stamp Duty\nOther (Please specify)\nWhether Purchase Order (PO) / Email Confirmation\nVendor Name\nWhether Agreement is signed\nWhether invoice is ISD\nDepartment Name\nis approved\nMD/CEO Sign (if required) (with Date)\nFunction\nLocation\nPreparer Sign (with Date)\nOwner's Sign (with Date)\nApproved By (with Date)\nHOD Sign (with Date)\nPAISE",
+      "text_block_count": 51
+    }
+  ],
+  "metadata": {
+    "ocr_engine": "PaddleOCR",
+    "structure_engine": "Docling",
+    "total_text_blocks": 51
+  }
+}

@@ -1,0 +1,3761 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.9.0",
+  "name": "invoice",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 9999236139792420862,
+    "filename": "invoice.png"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/pictures/2"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/17"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 58.0,
+            "t": 552.3333333333334,
+            "r": 134.66666666666666,
+            "b": 535.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "gupshup",
+      "text": "gupshup"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 152.0,
+            "t": 553.3333333333334,
+            "r": 412.3333333333333,
+            "b": 534.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            167
+          ]
+        }
+      ],
+      "orig": "Gupshup Technolegy India Prhate Ld 101 1st Floor. Sher Melnepolis,Wesem Expmss Haghway,Muambal 400063,Inda CIN:U72100MH2005PTC150425 PAN:AAACW6722AGSTN:27AAACW5722A12P",
+      "text": "Gupshup Technolegy India Prhate Ld 101 1st Floor. Sher Melnepolis,Wesem Expmss Haghway,Muambal 400063,Inda CIN:U72100MH2005PTC150425 PAN:AAACW6722AGSTN:27AAACW5722A12P"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 176.33333333333334,
+            "t": 497.6666666666667,
+            "r": 255.33333333333334,
+            "b": 485.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "TAXInvoice",
+      "text": "TAXInvoice",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.333333333333332,
+            "t": 467.6666666666667,
+            "r": 42.333333333333336,
+            "b": 457.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "10-11",
+      "text": "10-11"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 52.0,
+            "t": 467.0,
+            "r": 184.0,
+            "b": 420.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            122
+          ]
+        }
+      ],
+      "orig": "AUXILO FINSERVEPRIVATELMITED Unit No 63andpa o Unk No 64  Floor Kalpatanu Square Kondivita Road PUN-411001 Mhanashma INDNA",
+      "text": "AUXILO FINSERVEPRIVATELMITED Unit No 63andpa o Unk No 64  Floor Kalpatanu Square Kondivita Road PUN-411001 Mhanashma INDNA"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 217.0,
+            "t": 469.3333333333333,
+            "r": 244.66666666666666,
+            "b": 460.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Shp-o:",
+      "text": "Shp-o:"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 255.33333333333334,
+            "t": 468.6666666666667,
+            "r": 389.3333333333333,
+            "b": 421.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            131
+          ]
+        }
+      ],
+      "orig": "AUXILO FINSERVE PRIVATELIMITED Unit No C3 andpari of Uni No 64 6th Fko Kalpataru Squane Kondwita Foad PUNE-411001 Maharashtra INDLA",
+      "text": "AUXILO FINSERVE PRIVATELIMITED Unit No C3 andpari of Uni No 64 6th Fko Kalpataru Squane Kondwita Foad PUNE-411001 Maharashtra INDLA"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 17.0,
+            "t": 420.0,
+            "r": 127.0,
+            "b": 411.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "Allention Namec Sandeep Sandeep",
+      "text": "Allention Namec Sandeep Sandeep"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 16.333333333333332,
+            "t": 410.66666666666663,
+            "r": 80.66666666666667,
+            "b": 403.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "Plaoe ofSupply:27",
+      "text": "Plaoe ofSupply:27"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 217.33333333333334,
+            "t": 413.33333333333337,
+            "r": 313.0,
+            "b": 405.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "Rowerse Charge Appicable: N",
+      "text": "Rowerse Charge Appicable: N"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 16.666666666666668,
+            "t": 402.66666666666663,
+            "r": 121.66666666666667,
+            "b": 396.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "GSTNAT:27AAXCS7061B122",
+      "text": "GSTNAT:27AAXCS7061B122"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 16.333333333333332,
+            "t": 378.0,
+            "r": 102.33333333333333,
+            "b": 372.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "Iwol0eNo:132726151531",
+      "text": "Iwol0eNo:132726151531"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 16.0,
+            "t": 369.66666666666663,
+            "r": 103.0,
+            "b": 364.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "Imwoi0o Date:01-JAN-2026",
+      "text": "Imwoi0o Date:01-JAN-2026"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 15.666666666666666,
+            "t": 362.33333333333337,
+            "r": 94.66666666666667,
+            "b": 355.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Bilng Penod:De0-2025",
+      "text": "Bilng Penod:De0-2025"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 16.0,
+            "t": 354.33333333333337,
+            "r": 54.0,
+            "b": 346.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "PO Numbor",
+      "text": "PO Numbor"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 15.333333333333334,
+            "t": 346.66666666666663,
+            "r": 123.33333333333333,
+            "b": 339.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "Paymont Due Da:31-JAN-2026",
+      "text": "Paymont Due Da:31-JAN-2026"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 16.0,
+            "t": 338.33333333333337,
+            "r": 120.33333333333333,
+            "b": 330.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "InwgioeAmount:0NRj 31.968.72",
+      "text": "InwgioeAmount:0NRj 31.968.72"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 14.0,
+            "t": 301.6666666666667,
+            "r": 298.6666666666667,
+            "b": 294.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "IRN Numb0:3209624059da00737e214186e0eb88c7a0tl56d9d64b8b38cab1259o1H511",
+      "text": "IRN Numb0:3209624059da00737e214186e0eb88c7a0tl56d9d64b8b38cab1259o1H511"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 288.0,
+            "t": 53.0,
+            "r": 403.3333333333333,
+            "b": 30.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Signature valid",
+      "text": "Signature valid"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 289.6666666666667,
+            "t": 30.33333333333337,
+            "r": 441.3333333333333,
+            "b": 4.333333333333371,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "Digitally signed by Milesh Shivaji Sonawane",
+      "text": "Digitally signed by Milesh Shivaji Sonawane"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 25.691267013549805,
+            "t": 553.7131805419922,
+            "r": 133.50900268554688,
+            "b": 530.3723297119141,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 287.7496032714844,
+            "t": 53.16888427734375,
+            "r": 441.93084716796875,
+            "b": 7.03253173828125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 307.1321716308594,
+            "t": 380.14906311035156,
+            "r": 377.1830139160156,
+            "b": 312.2453308105469,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 5.607063293457031,
+            "t": 281.52227783203125,
+            "r": 439.1683044433594,
+            "b": 75.41937255859375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 11.0,
+              "t": 311.3333333333333,
+              "r": 46.333333333333336,
+              "b": 337.6666666666667,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Summary Serviens:",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 384.6666666666667,
+              "t": 318.6666666666667,
+              "r": 426.3333333333333,
+              "b": 336.6666666666667,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Charges In (INR)",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 272.6666666666667,
+              "t": 327.0,
+              "r": 301.0,
+              "b": 337.6666666666667,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Volume",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 334.0,
+              "t": 328.3333333333333,
+              "r": 351.6666666666667,
+              "b": 336.6666666666667,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "Rate",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 10.0,
+              "t": 341.3333333333333,
+              "r": 92.33333333333333,
+              "b": 366.6666666666667,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "908599 8M8 Transactioral Mesaging 2000175766",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 273.3333333333333,
+              "t": 348.3333333333333,
+              "r": 302.0,
+              "b": 357.6666666666667,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "206,704",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 335.6666666666667,
+              "t": 348.3333333333333,
+              "r": 353.3333333333333,
+              "b": 358.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "0.13",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 391.6666666666667,
+              "t": 348.3333333333333,
+              "r": 427.3333333333333,
+              "b": 357.3333333333333,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "26.871.52",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 8.666666666666666,
+              "t": 371.0,
+              "r": 101.33333333333333,
+              "b": 397.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "998599 WATSAPP Auhemfcation Per Message 2000225124Hncia",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 287.3333333333333,
+              "t": 378.3333333333333,
+              "r": 304.0,
+              "b": 388.3333333333333,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "410",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 328.3333333333333,
+              "t": 378.3333333333333,
+              "r": 354.0,
+              "b": 388.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "0.1261",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 408.0,
+              "t": 377.6666666666667,
+              "r": 429.6666666666667,
+              "b": 388.3333333333333,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "51.70",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 8.0,
+              "t": 400.6666666666667,
+              "r": 86.66666666666667,
+              "b": 426.6666666666667,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "998589 WHATSAPP Marketing Per Message 2000225124-lncia",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 289.3333333333333,
+              "t": 408.6666666666667,
+              "r": 304.3333333333333,
+              "b": 419.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "180",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 337.3333333333333,
+              "t": 409.0,
+              "r": 355.6666666666667,
+              "b": 419.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "0.86",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 405.6666666666667,
+              "t": 409.0,
+              "r": 432.6666666666667,
+              "b": 419.3333333333333,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "154.80",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 7.333333333333333,
+              "t": 431.0,
+              "r": 76.66666666666667,
+              "b": 457.3333333333333,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "9985G9 WHATSAPP Utinty Per Message 2000225124-Irda",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 290.3333333333333,
+              "t": 440.0,
+              "r": 304.0,
+              "b": 449.3333333333333,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "112",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 330.3333333333333,
+              "t": 439.6666666666667,
+              "r": 356.3333333333333,
+              "b": 450.3333333333333,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "0.1281",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 412.3333333333333,
+              "t": 440.3333333333333,
+              "r": 433.6666666666667,
+              "b": 452.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "14.12",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 7.666666666666667,
+              "t": 465.6666666666667,
+              "r": 61.333333333333336,
+              "b": 473.6666666666667,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Taoable Amount",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 398.3333333333333,
+              "t": 467.6666666666667,
+              "r": 435.6666666666667,
+              "b": 479.6666666666667,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "27,092.14",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 6.0,
+              "t": 481.6666666666667,
+              "r": 45.666666666666664,
+              "b": 493.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "CGST@9%",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 404.3333333333333,
+              "t": 486.3333333333333,
+              "r": 437.6666666666667,
+              "b": 498.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "2,438.29",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 6.0,
+              "t": 493.0,
+              "r": 45.333333333333336,
+              "b": 504.6666666666667,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "SGST89%",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 404.6666666666667,
+              "t": 498.3333333333333,
+              "r": 438.6666666666667,
+              "b": 509.3333333333333,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "2,438.29",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 8,
+        "num_cols": 4,
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 11.0,
+                "t": 311.3333333333333,
+                "r": 46.333333333333336,
+                "b": 337.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Summary Serviens:",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 272.6666666666667,
+                "t": 327.0,
+                "r": 301.0,
+                "b": 337.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Volume",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 334.0,
+                "t": 328.3333333333333,
+                "r": 351.6666666666667,
+                "b": 336.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Rate",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 384.6666666666667,
+                "t": 318.6666666666667,
+                "r": 426.3333333333333,
+                "b": 336.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Charges In (INR)",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 10.0,
+                "t": 341.3333333333333,
+                "r": 92.33333333333333,
+                "b": 366.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "908599 8M8 Transactioral Mesaging 2000175766",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 273.3333333333333,
+                "t": 348.3333333333333,
+                "r": 302.0,
+                "b": 357.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "206,704",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 335.6666666666667,
+                "t": 348.3333333333333,
+                "r": 353.3333333333333,
+                "b": 358.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "0.13",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 391.6666666666667,
+                "t": 348.3333333333333,
+                "r": 427.3333333333333,
+                "b": 357.3333333333333,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "26.871.52",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 8.666666666666666,
+                "t": 371.0,
+                "r": 101.33333333333333,
+                "b": 397.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "998599 WATSAPP Auhemfcation Per Message 2000225124Hncia",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 287.3333333333333,
+                "t": 378.3333333333333,
+                "r": 304.0,
+                "b": 388.3333333333333,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "410",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 328.3333333333333,
+                "t": 378.3333333333333,
+                "r": 354.0,
+                "b": 388.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "0.1261",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 408.0,
+                "t": 377.6666666666667,
+                "r": 429.6666666666667,
+                "b": 388.3333333333333,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "51.70",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 8.0,
+                "t": 400.6666666666667,
+                "r": 86.66666666666667,
+                "b": 426.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "998589 WHATSAPP Marketing Per Message 2000225124-lncia",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 289.3333333333333,
+                "t": 408.6666666666667,
+                "r": 304.3333333333333,
+                "b": 419.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "180",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 337.3333333333333,
+                "t": 409.0,
+                "r": 355.6666666666667,
+                "b": 419.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "0.86",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 405.6666666666667,
+                "t": 409.0,
+                "r": 432.6666666666667,
+                "b": 419.3333333333333,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "154.80",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 7.333333333333333,
+                "t": 431.0,
+                "r": 76.66666666666667,
+                "b": 457.3333333333333,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "9985G9 WHATSAPP Utinty Per Message 2000225124-Irda",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 290.3333333333333,
+                "t": 440.0,
+                "r": 304.0,
+                "b": 449.3333333333333,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "112",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 330.3333333333333,
+                "t": 439.6666666666667,
+                "r": 356.3333333333333,
+                "b": 450.3333333333333,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "0.1281",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 412.3333333333333,
+                "t": 440.3333333333333,
+                "r": 433.6666666666667,
+                "b": 452.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "14.12",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 7.666666666666667,
+                "t": 465.6666666666667,
+                "r": 61.333333333333336,
+                "b": 473.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Taoable Amount",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 398.3333333333333,
+                "t": 467.6666666666667,
+                "r": 435.6666666666667,
+                "b": 479.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "27,092.14",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 6.0,
+                "t": 481.6666666666667,
+                "r": 45.666666666666664,
+                "b": 493.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "CGST@9%",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 404.3333333333333,
+                "t": 486.3333333333333,
+                "r": 437.6666666666667,
+                "b": 498.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "2,438.29",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 6.0,
+                "t": 493.0,
+                "r": 45.333333333333336,
+                "b": 504.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "SGST89%",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 404.6666666666667,
+                "t": 498.3333333333333,
+                "r": 438.6666666666667,
+                "b": 509.3333333333333,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "2,438.29",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": [
+    {
+      "page_number": 1,
+      "size": {
+        "width": 458,
+        "height": 590
+      },
+      "paddle_ocr_cells": [
+        {
+          "text": "gupshup",
+          "confidence": 0.9545434713363647,
+          "bbox": {
+            "x_min": 26,
+            "y_min": 33,
+            "x_max": 135,
+            "y_max": 58
+          },
+          "polygon": [
+            [
+              26,
+              36
+            ],
+            [
+              134,
+              33
+            ],
+            [
+              135,
+              54
+            ],
+            [
+              27,
+              58
+            ]
+          ]
+        },
+        {
+          "text": "TAX Invoice",
+          "confidence": 0.9500865936279297,
+          "bbox": {
+            "x_min": 177,
+            "y_min": 92,
+            "x_max": 256,
+            "y_max": 104
+          },
+          "polygon": [
+            [
+              177,
+              92
+            ],
+            [
+              256,
+              92
+            ],
+            [
+              256,
+              104
+            ],
+            [
+              177,
+              104
+            ]
+          ]
+        },
+        {
+          "text": "Billto",
+          "confidence": 0.916767418384552,
+          "bbox": {
+            "x_min": 18,
+            "y_min": 123,
+            "x_max": 40,
+            "y_max": 131
+          },
+          "polygon": [
+            [
+              18,
+              123
+            ],
+            [
+              40,
+              123
+            ],
+            [
+              40,
+              131
+            ],
+            [
+              18,
+              131
+            ]
+          ]
+        },
+        {
+          "text": "AUXILO FINSERVE PRIVATE UMITED",
+          "confidence": 0.9730628728866577,
+          "bbox": {
+            "x_min": 51,
+            "y_min": 120,
+            "x_max": 176,
+            "y_max": 132
+          },
+          "polygon": [
+            [
+              51,
+              122
+            ],
+            [
+              176,
+              120
+            ],
+            [
+              176,
+              130
+            ],
+            [
+              51,
+              132
+            ]
+          ]
+        },
+        {
+          "text": "AUXILOFINSERVE PRIVATE LIMITED",
+          "confidence": 0.9685021042823792,
+          "bbox": {
+            "x_min": 253,
+            "y_min": 116,
+            "x_max": 382,
+            "y_max": 130
+          },
+          "polygon": [
+            [
+              253,
+              119
+            ],
+            [
+              382,
+              116
+            ],
+            [
+              382,
+              127
+            ],
+            [
+              254,
+              130
+            ]
+          ]
+        },
+        {
+          "text": "Unit No 63 and pert of Unit No G4 Cth Flor",
+          "confidence": 0.8911852240562439,
+          "bbox": {
+            "x_min": 254,
+            "y_min": 126,
+            "x_max": 390,
+            "y_max": 138
+          },
+          "polygon": [
+            [
+              254,
+              128
+            ],
+            [
+              389,
+              126
+            ],
+            [
+              390,
+              136
+            ],
+            [
+              255,
+              138
+            ]
+          ]
+        },
+        {
+          "text": "PUNE-411001",
+          "confidence": 0.9927743673324585,
+          "bbox": {
+            "x_min": 53,
+            "y_min": 144,
+            "x_max": 99,
+            "y_max": 155
+          },
+          "polygon": [
+            [
+              53,
+              144
+            ],
+            [
+              99,
+              144
+            ],
+            [
+              99,
+              155
+            ],
+            [
+              53,
+              155
+            ]
+          ]
+        },
+        {
+          "text": "Kalpataru Square Kondivita Road",
+          "confidence": 0.9931519627571106,
+          "bbox": {
+            "x_min": 255,
+            "y_min": 135,
+            "x_max": 361,
+            "y_max": 145
+          },
+          "polygon": [
+            [
+              255,
+              135
+            ],
+            [
+              361,
+              135
+            ],
+            [
+              361,
+              145
+            ],
+            [
+              255,
+              145
+            ]
+          ]
+        },
+        {
+          "text": "PUNE-411001",
+          "confidence": 0.9972782135009766,
+          "bbox": {
+            "x_min": 255,
+            "y_min": 143,
+            "x_max": 303,
+            "y_max": 154
+          },
+          "polygon": [
+            [
+              255,
+              143
+            ],
+            [
+              303,
+              143
+            ],
+            [
+              303,
+              154
+            ],
+            [
+              255,
+              154
+            ]
+          ]
+        },
+        {
+          "text": "Maharashtra",
+          "confidence": 0.9639071822166443,
+          "bbox": {
+            "x_min": 52,
+            "y_min": 153,
+            "x_max": 94,
+            "y_max": 163
+          },
+          "polygon": [
+            [
+              52,
+              153
+            ],
+            [
+              94,
+              153
+            ],
+            [
+              94,
+              163
+            ],
+            [
+              52,
+              163
+            ]
+          ]
+        },
+        {
+          "text": "Maharashtra",
+          "confidence": 0.9024943709373474,
+          "bbox": {
+            "x_min": 254,
+            "y_min": 150,
+            "x_max": 299,
+            "y_max": 163
+          },
+          "polygon": [
+            [
+              255,
+              150
+            ],
+            [
+              299,
+              153
+            ],
+            [
+              298,
+              163
+            ],
+            [
+              254,
+              161
+            ]
+          ]
+        },
+        {
+          "text": "INDIA",
+          "confidence": 0.9942019581794739,
+          "bbox": {
+            "x_min": 52,
+            "y_min": 162,
+            "x_max": 74,
+            "y_max": 169
+          },
+          "polygon": [
+            [
+              52,
+              162
+            ],
+            [
+              74,
+              162
+            ],
+            [
+              74,
+              169
+            ],
+            [
+              52,
+              169
+            ]
+          ]
+        },
+        {
+          "text": "INDIA",
+          "confidence": 0.998479962348938,
+          "bbox": {
+            "x_min": 255,
+            "y_min": 159,
+            "x_max": 278,
+            "y_max": 170
+          },
+          "polygon": [
+            [
+              255,
+              159
+            ],
+            [
+              278,
+              159
+            ],
+            [
+              278,
+              170
+            ],
+            [
+              255,
+              170
+            ]
+          ]
+        },
+        {
+          "text": "Atlention Name: Sandeep Sandeep",
+          "confidence": 0.9771943092346191,
+          "bbox": {
+            "x_min": 16,
+            "y_min": 168,
+            "x_max": 127,
+            "y_max": 180
+          },
+          "polygon": [
+            [
+              16,
+              169
+            ],
+            [
+              127,
+              168
+            ],
+            [
+              127,
+              179
+            ],
+            [
+              16,
+              180
+            ]
+          ]
+        },
+        {
+          "text": "Place of Supply 27",
+          "confidence": 0.952518880367279,
+          "bbox": {
+            "x_min": 16,
+            "y_min": 176,
+            "x_max": 81,
+            "y_max": 189
+          },
+          "polygon": [
+            [
+              16,
+              178
+            ],
+            [
+              81,
+              176
+            ],
+            [
+              81,
+              186
+            ],
+            [
+              17,
+              189
+            ]
+          ]
+        },
+        {
+          "text": "Reverse Charge Appicable: N",
+          "confidence": 0.9867779016494751,
+          "bbox": {
+            "x_min": 216,
+            "y_min": 173,
+            "x_max": 314,
+            "y_max": 185
+          },
+          "polygon": [
+            [
+              216,
+              174
+            ],
+            [
+              314,
+              173
+            ],
+            [
+              314,
+              184
+            ],
+            [
+              216,
+              185
+            ]
+          ]
+        },
+        {
+          "text": "GSTN/VAT: 27AAXCS7051B1Z2",
+          "confidence": 0.9393028020858765,
+          "bbox": {
+            "x_min": 12,
+            "y_min": 184,
+            "x_max": 123,
+            "y_max": 197
+          },
+          "polygon": [
+            [
+              12,
+              185
+            ],
+            [
+              123,
+              184
+            ],
+            [
+              123,
+              196
+            ],
+            [
+              12,
+              197
+            ]
+          ]
+        },
+        {
+          "text": "Invoice No : 132726151531",
+          "confidence": 0.9896708726882935,
+          "bbox": {
+            "x_min": 14,
+            "y_min": 208,
+            "x_max": 102,
+            "y_max": 220
+          },
+          "polygon": [
+            [
+              14,
+              209
+            ],
+            [
+              102,
+              208
+            ],
+            [
+              102,
+              219
+            ],
+            [
+              14,
+              220
+            ]
+          ]
+        },
+        {
+          "text": "Billing Period : Dec-2025",
+          "confidence": 0.9467947483062744,
+          "bbox": {
+            "x_min": 14,
+            "y_min": 226,
+            "x_max": 96,
+            "y_max": 237
+          },
+          "polygon": [
+            [
+              14,
+              226
+            ],
+            [
+              96,
+              226
+            ],
+            [
+              96,
+              237
+            ],
+            [
+              14,
+              237
+            ]
+          ]
+        },
+        {
+          "text": "Invoice Date : 01-JAN2026",
+          "confidence": 0.9838219285011292,
+          "bbox": {
+            "x_min": 16,
+            "y_min": 218,
+            "x_max": 103,
+            "y_max": 228
+          },
+          "polygon": [
+            [
+              16,
+              218
+            ],
+            [
+              103,
+              218
+            ],
+            [
+              103,
+              228
+            ],
+            [
+              16,
+              228
+            ]
+          ]
+        },
+        {
+          "text": "Payment Due Date : 31-JAN-2025",
+          "confidence": 0.9575183987617493,
+          "bbox": {
+            "x_min": 14,
+            "y_min": 240,
+            "x_max": 123,
+            "y_max": 253
+          },
+          "polygon": [
+            [
+              14,
+              242
+            ],
+            [
+              123,
+              240
+            ],
+            [
+              123,
+              251
+            ],
+            [
+              14,
+              253
+            ]
+          ]
+        },
+        {
+          "text": "PO Number",
+          "confidence": 0.9650547504425049,
+          "bbox": {
+            "x_min": 15,
+            "y_min": 236,
+            "x_max": 55,
+            "y_max": 243
+          },
+          "polygon": [
+            [
+              15,
+              236
+            ],
+            [
+              55,
+              236
+            ],
+            [
+              55,
+              243
+            ],
+            [
+              15,
+              243
+            ]
+          ]
+        },
+        {
+          "text": "Invoice Amount : (INR) 31.968.72",
+          "confidence": 0.957281231880188,
+          "bbox": {
+            "x_min": 16,
+            "y_min": 252,
+            "x_max": 121,
+            "y_max": 259
+          },
+          "polygon": [
+            [
+              16,
+              252
+            ],
+            [
+              121,
+              252
+            ],
+            [
+              121,
+              259
+            ],
+            [
+              16,
+              259
+            ]
+          ]
+        },
+        {
+          "text": "IRN Number : 3209624059fda00737c214f86e0e668c7a0fb1a62536463b35cab1259e1#511",
+          "confidence": 0.921424388885498,
+          "bbox": {
+            "x_min": 12,
+            "y_min": 285,
+            "x_max": 299,
+            "y_max": 297
+          },
+          "polygon": [
+            [
+              12,
+              286
+            ],
+            [
+              298,
+              285
+            ],
+            [
+              299,
+              296
+            ],
+            [
+              12,
+              297
+            ]
+          ]
+        },
+        {
+          "text": "Summary",
+          "confidence": 0.9996196031570435,
+          "bbox": {
+            "x_min": 10,
+            "y_min": 311,
+            "x_max": 47,
+            "y_max": 322
+          },
+          "polygon": [
+            [
+              10,
+              311
+            ],
+            [
+              47,
+              311
+            ],
+            [
+              47,
+              322
+            ],
+            [
+              10,
+              322
+            ]
+          ]
+        },
+        {
+          "text": "Services:",
+          "confidence": 0.9938324689865112,
+          "bbox": {
+            "x_min": 10,
+            "y_min": 328,
+            "x_max": 46,
+            "y_max": 338
+          },
+          "polygon": [
+            [
+              10,
+              328
+            ],
+            [
+              46,
+              328
+            ],
+            [
+              46,
+              338
+            ],
+            [
+              10,
+              338
+            ]
+          ]
+        },
+        {
+          "text": "Volume",
+          "confidence": 0.9994258284568787,
+          "bbox": {
+            "x_min": 272,
+            "y_min": 327,
+            "x_max": 302,
+            "y_max": 338
+          },
+          "polygon": [
+            [
+              272,
+              327
+            ],
+            [
+              302,
+              327
+            ],
+            [
+              302,
+              338
+            ],
+            [
+              272,
+              338
+            ]
+          ]
+        },
+        {
+          "text": "Rate",
+          "confidence": 0.998691201210022,
+          "bbox": {
+            "x_min": 332,
+            "y_min": 327,
+            "x_max": 354,
+            "y_max": 338
+          },
+          "polygon": [
+            [
+              332,
+              327
+            ],
+            [
+              354,
+              327
+            ],
+            [
+              354,
+              338
+            ],
+            [
+              332,
+              338
+            ]
+          ]
+        },
+        {
+          "text": "Charges In",
+          "confidence": 0.9634286165237427,
+          "bbox": {
+            "x_min": 383,
+            "y_min": 316,
+            "x_max": 428,
+            "y_max": 330
+          },
+          "polygon": [
+            [
+              383,
+              319
+            ],
+            [
+              427,
+              316
+            ],
+            [
+              428,
+              328
+            ],
+            [
+              384,
+              330
+            ]
+          ]
+        },
+        {
+          "text": "(INR)",
+          "confidence": 0.9948164224624634,
+          "bbox": {
+            "x_min": 406,
+            "y_min": 328,
+            "x_max": 426,
+            "y_max": 336
+          },
+          "polygon": [
+            [
+              406,
+              328
+            ],
+            [
+              426,
+              328
+            ],
+            [
+              426,
+              336
+            ],
+            [
+              406,
+              336
+            ]
+          ]
+        },
+        {
+          "text": "998599 SMS",
+          "confidence": 0.9912151098251343,
+          "bbox": {
+            "x_min": 10,
+            "y_min": 340,
+            "x_max": 55,
+            "y_max": 350
+          },
+          "polygon": [
+            [
+              10,
+              340
+            ],
+            [
+              55,
+              340
+            ],
+            [
+              55,
+              350
+            ],
+            [
+              10,
+              350
+            ]
+          ]
+        },
+        {
+          "text": "Transactional Messaging",
+          "confidence": 0.9882420897483826,
+          "bbox": {
+            "x_min": 11,
+            "y_min": 349,
+            "x_max": 93,
+            "y_max": 360
+          },
+          "polygon": [
+            [
+              11,
+              349
+            ],
+            [
+              93,
+              349
+            ],
+            [
+              93,
+              360
+            ],
+            [
+              11,
+              360
+            ]
+          ]
+        },
+        {
+          "text": "206,704",
+          "confidence": 0.9993194341659546,
+          "bbox": {
+            "x_min": 273,
+            "y_min": 347,
+            "x_max": 303,
+            "y_max": 359
+          },
+          "polygon": [
+            [
+              273,
+              347
+            ],
+            [
+              303,
+              347
+            ],
+            [
+              303,
+              359
+            ],
+            [
+              273,
+              359
+            ]
+          ]
+        },
+        {
+          "text": "0.13",
+          "confidence": 0.9428069591522217,
+          "bbox": {
+            "x_min": 334,
+            "y_min": 346,
+            "x_max": 354,
+            "y_max": 359
+          },
+          "polygon": [
+            [
+              334,
+              346
+            ],
+            [
+              354,
+              346
+            ],
+            [
+              354,
+              359
+            ],
+            [
+              334,
+              359
+            ]
+          ]
+        },
+        {
+          "text": "26,871.52",
+          "confidence": 0.994939386844635,
+          "bbox": {
+            "x_min": 391,
+            "y_min": 347,
+            "x_max": 427,
+            "y_max": 357
+          },
+          "polygon": [
+            [
+              391,
+              347
+            ],
+            [
+              427,
+              347
+            ],
+            [
+              427,
+              357
+            ],
+            [
+              391,
+              357
+            ]
+          ]
+        },
+        {
+          "text": "2000175766",
+          "confidence": 0.9560334086418152,
+          "bbox": {
+            "x_min": 10,
+            "y_min": 357,
+            "x_max": 53,
+            "y_max": 368
+          },
+          "polygon": [
+            [
+              10,
+              357
+            ],
+            [
+              53,
+              357
+            ],
+            [
+              53,
+              368
+            ],
+            [
+              10,
+              368
+            ]
+          ]
+        },
+        {
+          "text": "998599 WHATSAPP",
+          "confidence": 0.989184558391571,
+          "bbox": {
+            "x_min": 8,
+            "y_min": 368,
+            "x_max": 79,
+            "y_max": 380
+          },
+          "polygon": [
+            [
+              8,
+              369
+            ],
+            [
+              79,
+              368
+            ],
+            [
+              79,
+              379
+            ],
+            [
+              8,
+              380
+            ]
+          ]
+        },
+        {
+          "text": "Authentication Per Message",
+          "confidence": 0.9689527153968811,
+          "bbox": {
+            "x_min": 8,
+            "y_min": 377,
+            "x_max": 101,
+            "y_max": 389
+          },
+          "polygon": [
+            [
+              8,
+              377
+            ],
+            [
+              101,
+              378
+            ],
+            [
+              101,
+              389
+            ],
+            [
+              8,
+              388
+            ]
+          ]
+        },
+        {
+          "text": "410",
+          "confidence": 0.9789337515830994,
+          "bbox": {
+            "x_min": 286,
+            "y_min": 377,
+            "x_max": 305,
+            "y_max": 388
+          },
+          "polygon": [
+            [
+              286,
+              377
+            ],
+            [
+              305,
+              377
+            ],
+            [
+              305,
+              388
+            ],
+            [
+              286,
+              388
+            ]
+          ]
+        },
+        {
+          "text": "0.1261",
+          "confidence": 0.9817818999290466,
+          "bbox": {
+            "x_min": 327,
+            "y_min": 377,
+            "x_max": 355,
+            "y_max": 388
+          },
+          "polygon": [
+            [
+              327,
+              377
+            ],
+            [
+              355,
+              377
+            ],
+            [
+              355,
+              388
+            ],
+            [
+              327,
+              388
+            ]
+          ]
+        },
+        {
+          "text": "51.70",
+          "confidence": 0.9590353965759277,
+          "bbox": {
+            "x_min": 406,
+            "y_min": 377,
+            "x_max": 431,
+            "y_max": 388
+          },
+          "polygon": [
+            [
+              406,
+              377
+            ],
+            [
+              431,
+              377
+            ],
+            [
+              431,
+              388
+            ],
+            [
+              406,
+              388
+            ]
+          ]
+        },
+        {
+          "text": "2000225124India",
+          "confidence": 0.9705629944801331,
+          "bbox": {
+            "x_min": 9,
+            "y_min": 387,
+            "x_max": 71,
+            "y_max": 397
+          },
+          "polygon": [
+            [
+              9,
+              387
+            ],
+            [
+              71,
+              387
+            ],
+            [
+              71,
+              397
+            ],
+            [
+              9,
+              397
+            ]
+          ]
+        },
+        {
+          "text": "Marketing Per Message",
+          "confidence": 0.9860358238220215,
+          "bbox": {
+            "x_min": 7,
+            "y_min": 408,
+            "x_max": 88,
+            "y_max": 421
+          },
+          "polygon": [
+            [
+              7,
+              408
+            ],
+            [
+              88,
+              408
+            ],
+            [
+              88,
+              421
+            ],
+            [
+              7,
+              421
+            ]
+          ]
+        },
+        {
+          "text": "998599 WHATSAPP",
+          "confidence": 0.9980405569076538,
+          "bbox": {
+            "x_min": 9,
+            "y_min": 399,
+            "x_max": 79,
+            "y_max": 410
+          },
+          "polygon": [
+            [
+              9,
+              399
+            ],
+            [
+              79,
+              399
+            ],
+            [
+              79,
+              410
+            ],
+            [
+              9,
+              410
+            ]
+          ]
+        },
+        {
+          "text": "2000225124-India",
+          "confidence": 0.9392584562301636,
+          "bbox": {
+            "x_min": 6,
+            "y_min": 416,
+            "x_max": 71,
+            "y_max": 428
+          },
+          "polygon": [
+            [
+              6,
+              417
+            ],
+            [
+              70,
+              416
+            ],
+            [
+              71,
+              427
+            ],
+            [
+              6,
+              428
+            ]
+          ]
+        },
+        {
+          "text": "180",
+          "confidence": 0.964763879776001,
+          "bbox": {
+            "x_min": 288,
+            "y_min": 408,
+            "x_max": 305,
+            "y_max": 420
+          },
+          "polygon": [
+            [
+              288,
+              408
+            ],
+            [
+              305,
+              408
+            ],
+            [
+              305,
+              420
+            ],
+            [
+              288,
+              420
+            ]
+          ]
+        },
+        {
+          "text": "0.86",
+          "confidence": 0.9894177317619324,
+          "bbox": {
+            "x_min": 336,
+            "y_min": 408,
+            "x_max": 357,
+            "y_max": 420
+          },
+          "polygon": [
+            [
+              336,
+              408
+            ],
+            [
+              357,
+              408
+            ],
+            [
+              357,
+              420
+            ],
+            [
+              336,
+              420
+            ]
+          ]
+        },
+        {
+          "text": "154.80",
+          "confidence": 0.9984674453735352,
+          "bbox": {
+            "x_min": 405,
+            "y_min": 408,
+            "x_max": 433,
+            "y_max": 421
+          },
+          "polygon": [
+            [
+              405,
+              408
+            ],
+            [
+              433,
+              408
+            ],
+            [
+              433,
+              421
+            ],
+            [
+              405,
+              421
+            ]
+          ]
+        },
+        {
+          "text": "998599 WHATSAPP",
+          "confidence": 0.9927144646644592,
+          "bbox": {
+            "x_min": 8,
+            "y_min": 429,
+            "x_max": 77,
+            "y_max": 440
+          },
+          "polygon": [
+            [
+              8,
+              429
+            ],
+            [
+              77,
+              429
+            ],
+            [
+              77,
+              440
+            ],
+            [
+              8,
+              440
+            ]
+          ]
+        },
+        {
+          "text": "Utility Per Message",
+          "confidence": 0.9677501320838928,
+          "bbox": {
+            "x_min": 7,
+            "y_min": 439,
+            "x_max": 73,
+            "y_max": 451
+          },
+          "polygon": [
+            [
+              7,
+              439
+            ],
+            [
+              73,
+              439
+            ],
+            [
+              73,
+              451
+            ],
+            [
+              7,
+              451
+            ]
+          ]
+        },
+        {
+          "text": "112",
+          "confidence": 0.9972575306892395,
+          "bbox": {
+            "x_min": 288,
+            "y_min": 438,
+            "x_max": 306,
+            "y_max": 450
+          },
+          "polygon": [
+            [
+              288,
+              438
+            ],
+            [
+              306,
+              438
+            ],
+            [
+              306,
+              450
+            ],
+            [
+              288,
+              450
+            ]
+          ]
+        },
+        {
+          "text": "2000225124-Indis",
+          "confidence": 0.951989471912384,
+          "bbox": {
+            "x_min": 7,
+            "y_min": 448,
+            "x_max": 67,
+            "y_max": 458
+          },
+          "polygon": [
+            [
+              7,
+              448
+            ],
+            [
+              67,
+              448
+            ],
+            [
+              67,
+              458
+            ],
+            [
+              7,
+              458
+            ]
+          ]
+        },
+        {
+          "text": "0.1261",
+          "confidence": 0.9677064418792725,
+          "bbox": {
+            "x_min": 329,
+            "y_min": 439,
+            "x_max": 358,
+            "y_max": 451
+          },
+          "polygon": [
+            [
+              329,
+              439
+            ],
+            [
+              358,
+              439
+            ],
+            [
+              358,
+              451
+            ],
+            [
+              329,
+              451
+            ]
+          ]
+        },
+        {
+          "text": "14.12",
+          "confidence": 0.9766507148742676,
+          "bbox": {
+            "x_min": 411,
+            "y_min": 440,
+            "x_max": 436,
+            "y_max": 452
+          },
+          "polygon": [
+            [
+              411,
+              440
+            ],
+            [
+              436,
+              440
+            ],
+            [
+              436,
+              452
+            ],
+            [
+              411,
+              452
+            ]
+          ]
+        },
+        {
+          "text": "Taxable Amount",
+          "confidence": 0.999930202960968,
+          "bbox": {
+            "x_min": 7,
+            "y_min": 465,
+            "x_max": 62,
+            "y_max": 475
+          },
+          "polygon": [
+            [
+              7,
+              465
+            ],
+            [
+              62,
+              465
+            ],
+            [
+              62,
+              475
+            ],
+            [
+              7,
+              475
+            ]
+          ]
+        },
+        {
+          "text": "27,092.14",
+          "confidence": 0.9523940682411194,
+          "bbox": {
+            "x_min": 398,
+            "y_min": 468,
+            "x_max": 438,
+            "y_max": 479
+          },
+          "polygon": [
+            [
+              398,
+              468
+            ],
+            [
+              438,
+              468
+            ],
+            [
+              438,
+              479
+            ],
+            [
+              398,
+              479
+            ]
+          ]
+        },
+        {
+          "text": "CGST @9%",
+          "confidence": 0.962291955947876,
+          "bbox": {
+            "x_min": 6,
+            "y_min": 481,
+            "x_max": 46,
+            "y_max": 493
+          },
+          "polygon": [
+            [
+              6,
+              481
+            ],
+            [
+              46,
+              481
+            ],
+            [
+              46,
+              493
+            ],
+            [
+              6,
+              493
+            ]
+          ]
+        },
+        {
+          "text": "SGST@9%",
+          "confidence": 0.999306321144104,
+          "bbox": {
+            "x_min": 6,
+            "y_min": 493,
+            "x_max": 45,
+            "y_max": 504
+          },
+          "polygon": [
+            [
+              6,
+              493
+            ],
+            [
+              45,
+              493
+            ],
+            [
+              45,
+              504
+            ],
+            [
+              6,
+              504
+            ]
+          ]
+        },
+        {
+          "text": "2,436.29 ",
+          "confidence": 0.8593549728393555,
+          "bbox": {
+            "x_min": 403,
+            "y_min": 484,
+            "x_max": 441,
+            "y_max": 499
+          },
+          "polygon": [
+            [
+              403,
+              484
+            ],
+            [
+              441,
+              484
+            ],
+            [
+              441,
+              499
+            ],
+            [
+              403,
+              499
+            ]
+          ]
+        },
+        {
+          "text": "2,438.29",
+          "confidence": 0.9866915941238403,
+          "bbox": {
+            "x_min": 403,
+            "y_min": 497,
+            "x_max": 441,
+            "y_max": 511
+          },
+          "polygon": [
+            [
+              403,
+              497
+            ],
+            [
+              441,
+              497
+            ],
+            [
+              441,
+              511
+            ],
+            [
+              403,
+              511
+            ]
+          ]
+        },
+        {
+          "text": "Signature valjd",
+          "confidence": 0.9769026637077332,
+          "bbox": {
+            "x_min": 287,
+            "y_min": 537,
+            "x_max": 403,
+            "y_max": 558
+          },
+          "polygon": [
+            [
+              288,
+              537
+            ],
+            [
+              403,
+              541
+            ],
+            [
+              402,
+              558
+            ],
+            [
+              287,
+              554
+            ]
+          ]
+        },
+        {
+          "text": "Digitally signed by N",
+          "confidence": 0.9223631024360657,
+          "bbox": {
+            "x_min": 288,
+            "y_min": 559,
+            "x_max": 384,
+            "y_max": 578
+          },
+          "polygon": [
+            [
+              289,
+              559
+            ],
+            [
+              384,
+              564
+            ],
+            [
+              383,
+              578
+            ],
+            [
+              288,
+              573
+            ]
+          ]
+        },
+        {
+          "text": "Sonawane",
+          "confidence": 0.9978231191635132,
+          "bbox": {
+            "x_min": 289,
+            "y_min": 571,
+            "x_max": 344,
+            "y_max": 584
+          },
+          "polygon": [
+            [
+              290,
+              571
+            ],
+            [
+              344,
+              574
+            ],
+            [
+              343,
+              584
+            ],
+            [
+              289,
+              582
+            ]
+          ]
+        },
+        {
+          "text": "Sh Shivaji",
+          "confidence": 0.9449590444564819,
+          "bbox": {
+            "x_min": 394,
+            "y_min": 562,
+            "x_max": 443,
+            "y_max": 579
+          },
+          "polygon": [
+            [
+              395,
+              562
+            ],
+            [
+              443,
+              565
+            ],
+            [
+              442,
+              579
+            ],
+            [
+              394,
+              576
+            ]
+          ]
+        }
+      ],
+      "extracted_text": "gupshup\nTAX Invoice\nBillto\nAUXILO FINSERVE PRIVATE UMITED\nAUXILOFINSERVE PRIVATE LIMITED\nUnit No 63 and pert of Unit No G4 Cth Flor\nPUNE-411001\nKalpataru Square Kondivita Road\nPUNE-411001\nMaharashtra\nMaharashtra\nINDIA\nINDIA\nAtlention Name: Sandeep Sandeep\nPlace of Supply 27\nReverse Charge Appicable: N\nGSTN/VAT: 27AAXCS7051B1Z2\nInvoice No : 132726151531\nBilling Period : Dec-2025\nInvoice Date : 01-JAN2026\nPayment Due Date : 31-JAN-2025\nPO Number\nInvoice Amount : (INR) 31.968.72\nIRN Number : 3209624059fda00737c214f86e0e668c7a0fb1a62536463b35cab1259e1#511\nSummary\nServices:\nVolume\nRate\nCharges In\n(INR)\n998599 SMS\nTransactional Messaging\n206,704\n0.13\n26,871.52\n2000175766\n998599 WHATSAPP\nAuthentication Per Message\n410\n0.1261\n51.70\n2000225124India\nMarketing Per Message\n998599 WHATSAPP\n2000225124-India\n180\n0.86\n154.80\n998599 WHATSAPP\nUtility Per Message\n112\n2000225124-Indis\n0.1261\n14.12\nTaxable Amount\n27,092.14\nCGST @9%\nSGST@9%\n2,436.29 \n2,438.29\nSignature valjd\nDigitally signed by N\nSonawane\nSh Shivaji",
+      "text_block_count": 64
+    }
+  ],
+  "metadata": {
+    "ocr_engine": "PaddleOCR",
+    "structure_engine": "Docling",
+    "total_text_blocks": 64,
+    "total_pages": 1
+  }
+}

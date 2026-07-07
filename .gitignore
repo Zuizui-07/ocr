@@ -1,0 +1,16 @@
+# Virtual Environments
+venv/
+venv310/
+venv_paddle/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment Variables
+.env
+
+# VS Code
+.vscode/
